@@ -1,5 +1,5 @@
 # human_life_exp
 
-## Help Info
+## Helpful Info/Links
 Life Expectancy Analysis Example:
 - https://github.com/vdbcyril/inequalities-life-expectancy-r
