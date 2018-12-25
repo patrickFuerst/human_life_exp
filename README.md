@@ -25,11 +25,13 @@ Kaggle Life Expectancy Data (WHO and UN)
 
 Meta data for WHO data can be found [here](http://apps.who.int/gho/data/node.metadata).
 
+
 [Current health expenditure](http://apps.who.int/gho/data/node.main.GHEDCHEpcUSSHA2011?lang=en):  per capita in US$ to compare different countries. Data by countries.
 
 [World by Income](http://datatopics.worldbank.org/world-development-indicators/the-world-by-income-and-region.html) : classified in 4 groups as defined in the description of the linke.
 
 [GDP per capita](https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?view=chart) 
+
 
 [Research and development expenditure](https://data.worldbank.org/indicator/GB.XPD.RSDV.GD.ZS) (% of GDP)
 
