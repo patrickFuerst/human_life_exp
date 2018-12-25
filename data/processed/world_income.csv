@@ -1,0 +1,3952 @@
+Country,Year,Income Level
+Afghanistan,2000,L
+Afghanistan,2001,L
+Afghanistan,2002,L
+Afghanistan,2003,L
+Afghanistan,2004,L
+Afghanistan,2005,L
+Afghanistan,2006,L
+Afghanistan,2007,L
+Afghanistan,2008,L
+Afghanistan,2009,L
+Afghanistan,2010,L
+Afghanistan,2011,L
+Afghanistan,2012,L
+Afghanistan,2013,L
+Afghanistan,2014,L
+Afghanistan,2015,L
+Afghanistan,2016,L
+Afghanistan,2017,L
+Albania,2000,LM
+Albania,2001,LM
+Albania,2002,LM
+Albania,2003,LM
+Albania,2004,LM
+Albania,2005,LM
+Albania,2006,LM
+Albania,2007,LM
+Albania,2008,LM
+Albania,2009,UM
+Albania,2010,UM
+Albania,2011,LM
+Albania,2012,UM
+Albania,2013,UM
+Albania,2014,UM
+Albania,2015,UM
+Albania,2016,UM
+Albania,2017,UM
+Algeria,2000,LM
+Algeria,2001,LM
+Algeria,2002,LM
+Algeria,2003,LM
+Algeria,2004,LM
+Algeria,2005,LM
+Algeria,2006,LM
+Algeria,2007,LM
+Algeria,2008,UM
+Algeria,2009,UM
+Algeria,2010,UM
+Algeria,2011,UM
+Algeria,2012,UM
+Algeria,2013,UM
+Algeria,2014,UM
+Algeria,2015,UM
+Algeria,2016,UM
+Algeria,2017,UM
+American Samoa,2000,UM
+American Samoa,2001,UM
+American Samoa,2002,UM
+American Samoa,2003,UM
+American Samoa,2004,UM
+American Samoa,2005,UM
+American Samoa,2006,UM
+American Samoa,2007,UM
+American Samoa,2008,UM
+American Samoa,2009,UM
+American Samoa,2010,UM
+American Samoa,2011,UM
+American Samoa,2012,UM
+American Samoa,2013,UM
+American Samoa,2014,UM
+American Samoa,2015,UM
+American Samoa,2016,UM
+American Samoa,2017,UM
+Andorra,2000,H
+Andorra,2001,H
+Andorra,2002,H
+Andorra,2003,H
+Andorra,2004,H
+Andorra,2005,H
+Andorra,2006,H
+Andorra,2007,H
+Andorra,2008,H
+Andorra,2009,H
+Andorra,2010,H
+Andorra,2011,H
+Andorra,2012,H
+Andorra,2013,H
+Andorra,2014,H
+Andorra,2015,H
+Andorra,2016,H
+Andorra,2017,H
+Angola,2000,L
+Angola,2001,L
+Angola,2002,L
+Angola,2003,L
+Angola,2004,LM
+Angola,2005,LM
+Angola,2006,LM
+Angola,2007,LM
+Angola,2008,LM
+Angola,2009,LM
+Angola,2010,LM
+Angola,2011,UM
+Angola,2012,UM
+Angola,2013,UM
+Angola,2014,UM
+Angola,2015,UM
+Angola,2016,LM
+Angola,2017,LM
+Antigua and Barbuda,2000,UM
+Antigua and Barbuda,2001,UM
+Antigua and Barbuda,2002,H
+Antigua and Barbuda,2003,UM
+Antigua and Barbuda,2004,UM
+Antigua and Barbuda,2005,H
+Antigua and Barbuda,2006,H
+Antigua and Barbuda,2007,H
+Antigua and Barbuda,2008,H
+Antigua and Barbuda,2009,UM
+Antigua and Barbuda,2010,UM
+Antigua and Barbuda,2011,UM
+Antigua and Barbuda,2012,H
+Antigua and Barbuda,2013,H
+Antigua and Barbuda,2014,H
+Antigua and Barbuda,2015,H
+Antigua and Barbuda,2016,H
+Antigua and Barbuda,2017,H
+Argentina,2000,UM
+Argentina,2001,UM
+Argentina,2002,UM
+Argentina,2003,UM
+Argentina,2004,UM
+Argentina,2005,UM
+Argentina,2006,UM
+Argentina,2007,UM
+Argentina,2008,UM
+Argentina,2009,UM
+Argentina,2010,UM
+Argentina,2011,UM
+Argentina,2012,UM
+Argentina,2013,UM
+Argentina,2014,H
+Argentina,2015,UM
+Argentina,2016,UM
+Argentina,2017,H
+Armenia,2000,L
+Armenia,2001,L
+Armenia,2002,LM
+Armenia,2003,LM
+Armenia,2004,LM
+Armenia,2005,LM
+Armenia,2006,LM
+Armenia,2007,LM
+Armenia,2008,LM
+Armenia,2009,LM
+Armenia,2010,LM
+Armenia,2011,LM
+Armenia,2012,LM
+Armenia,2013,LM
+Armenia,2014,LM
+Armenia,2015,LM
+Armenia,2016,LM
+Armenia,2017,UM
+Aruba,2000,H
+Aruba,2001,H
+Aruba,2002,H
+Aruba,2003,H
+Aruba,2004,H
+Aruba,2005,H
+Aruba,2006,H
+Aruba,2007,H
+Aruba,2008,H
+Aruba,2009,H
+Aruba,2010,H
+Aruba,2011,H
+Aruba,2012,H
+Aruba,2013,H
+Aruba,2014,H
+Aruba,2015,H
+Aruba,2016,H
+Aruba,2017,H
+Australia,2000,H
+Australia,2001,H
+Australia,2002,H
+Australia,2003,H
+Australia,2004,H
+Australia,2005,H
+Australia,2006,H
+Australia,2007,H
+Australia,2008,H
+Australia,2009,H
+Australia,2010,H
+Australia,2011,H
+Australia,2012,H
+Australia,2013,H
+Australia,2014,H
+Australia,2015,H
+Australia,2016,H
+Australia,2017,H
+Austria,2000,H
+Austria,2001,H
+Austria,2002,H
+Austria,2003,H
+Austria,2004,H
+Austria,2005,H
+Austria,2006,H
+Austria,2007,H
+Austria,2008,H
+Austria,2009,H
+Austria,2010,H
+Austria,2011,H
+Austria,2012,H
+Austria,2013,H
+Austria,2014,H
+Austria,2015,H
+Austria,2016,H
+Austria,2017,H
+Azerbaijan,2000,L
+Azerbaijan,2001,L
+Azerbaijan,2002,L
+Azerbaijan,2003,LM
+Azerbaijan,2004,LM
+Azerbaijan,2005,LM
+Azerbaijan,2006,LM
+Azerbaijan,2007,LM
+Azerbaijan,2008,LM
+Azerbaijan,2009,UM
+Azerbaijan,2010,UM
+Azerbaijan,2011,UM
+Azerbaijan,2012,UM
+Azerbaijan,2013,UM
+Azerbaijan,2014,UM
+Azerbaijan,2015,UM
+Azerbaijan,2016,UM
+Azerbaijan,2017,UM
+"Bahamas, The",2000,H
+"Bahamas, The",2001,H
+"Bahamas, The",2002,H
+"Bahamas, The",2003,H
+"Bahamas, The",2004,H
+"Bahamas, The",2005,H
+"Bahamas, The",2006,H
+"Bahamas, The",2007,H
+"Bahamas, The",2008,H
+"Bahamas, The",2009,H
+"Bahamas, The",2010,H
+"Bahamas, The",2011,H
+"Bahamas, The",2012,H
+"Bahamas, The",2013,H
+"Bahamas, The",2014,H
+"Bahamas, The",2015,H
+"Bahamas, The",2016,H
+"Bahamas, The",2017,H
+Bahrain,2000,UM
+Bahrain,2001,H
+Bahrain,2002,H
+Bahrain,2003,H
+Bahrain,2004,H
+Bahrain,2005,H
+Bahrain,2006,H
+Bahrain,2007,H
+Bahrain,2008,H
+Bahrain,2009,H
+Bahrain,2010,H
+Bahrain,2011,H
+Bahrain,2012,H
+Bahrain,2013,H
+Bahrain,2014,H
+Bahrain,2015,H
+Bahrain,2016,H
+Bahrain,2017,H
+Bangladesh,2000,L
+Bangladesh,2001,L
+Bangladesh,2002,L
+Bangladesh,2003,L
+Bangladesh,2004,L
+Bangladesh,2005,L
+Bangladesh,2006,L
+Bangladesh,2007,L
+Bangladesh,2008,L
+Bangladesh,2009,L
+Bangladesh,2010,L
+Bangladesh,2011,L
+Bangladesh,2012,L
+Bangladesh,2013,L
+Bangladesh,2014,LM
+Bangladesh,2015,LM
+Bangladesh,2016,LM
+Bangladesh,2017,LM
+Barbados,2000,H
+Barbados,2001,UM
+Barbados,2002,H
+Barbados,2003,UM
+Barbados,2004,UM
+Barbados,2005,UM
+Barbados,2006,H
+Barbados,2007,H
+Barbados,2008,H
+Barbados,2009,H
+Barbados,2010,H
+Barbados,2011,H
+Barbados,2012,H
+Barbados,2013,H
+Barbados,2014,H
+Barbados,2015,H
+Barbados,2016,H
+Barbados,2017,H
+Belarus,2000,LM
+Belarus,2001,LM
+Belarus,2002,LM
+Belarus,2003,LM
+Belarus,2004,LM
+Belarus,2005,LM
+Belarus,2006,LM
+Belarus,2007,UM
+Belarus,2008,UM
+Belarus,2009,UM
+Belarus,2010,UM
+Belarus,2011,UM
+Belarus,2012,UM
+Belarus,2013,UM
+Belarus,2014,UM
+Belarus,2015,UM
+Belarus,2016,UM
+Belarus,2017,UM
+Belgium,2000,H
+Belgium,2001,H
+Belgium,2002,H
+Belgium,2003,H
+Belgium,2004,H
+Belgium,2005,H
+Belgium,2006,H
+Belgium,2007,H
+Belgium,2008,H
+Belgium,2009,H
+Belgium,2010,H
+Belgium,2011,H
+Belgium,2012,H
+Belgium,2013,H
+Belgium,2014,H
+Belgium,2015,H
+Belgium,2016,H
+Belgium,2017,H
+Belize,2000,LM
+Belize,2001,LM
+Belize,2002,UM
+Belize,2003,UM
+Belize,2004,UM
+Belize,2005,UM
+Belize,2006,UM
+Belize,2007,UM
+Belize,2008,LM
+Belize,2009,LM
+Belize,2010,LM
+Belize,2011,LM
+Belize,2012,UM
+Belize,2013,UM
+Belize,2014,UM
+Belize,2015,UM
+Belize,2016,UM
+Belize,2017,UM
+Benin,2000,L
+Benin,2001,L
+Benin,2002,L
+Benin,2003,L
+Benin,2004,L
+Benin,2005,L
+Benin,2006,L
+Benin,2007,L
+Benin,2008,L
+Benin,2009,L
+Benin,2010,L
+Benin,2011,L
+Benin,2012,L
+Benin,2013,L
+Benin,2014,L
+Benin,2015,L
+Benin,2016,L
+Benin,2017,L
+Bermuda,2000,H
+Bermuda,2001,H
+Bermuda,2002,H
+Bermuda,2003,H
+Bermuda,2004,H
+Bermuda,2005,H
+Bermuda,2006,H
+Bermuda,2007,H
+Bermuda,2008,H
+Bermuda,2009,H
+Bermuda,2010,H
+Bermuda,2011,H
+Bermuda,2012,H
+Bermuda,2013,H
+Bermuda,2014,H
+Bermuda,2015,H
+Bermuda,2016,H
+Bermuda,2017,H
+Bhutan,2000,L
+Bhutan,2001,L
+Bhutan,2002,L
+Bhutan,2003,L
+Bhutan,2004,L
+Bhutan,2005,L
+Bhutan,2006,LM
+Bhutan,2007,LM
+Bhutan,2008,LM
+Bhutan,2009,LM
+Bhutan,2010,LM
+Bhutan,2011,LM
+Bhutan,2012,LM
+Bhutan,2013,LM
+Bhutan,2014,LM
+Bhutan,2015,LM
+Bhutan,2016,LM
+Bhutan,2017,LM
+Bolivia,2000,LM
+Bolivia,2001,LM
+Bolivia,2002,LM
+Bolivia,2003,LM
+Bolivia,2004,LM
+Bolivia,2005,LM
+Bolivia,2006,LM
+Bolivia,2007,LM
+Bolivia,2008,LM
+Bolivia,2009,LM
+Bolivia,2010,LM
+Bolivia,2011,LM
+Bolivia,2012,LM
+Bolivia,2013,LM
+Bolivia,2014,LM
+Bolivia,2015,LM
+Bolivia,2016,LM
+Bolivia,2017,LM
+Bosnia and Herzegovina,2000,LM
+Bosnia and Herzegovina,2001,LM
+Bosnia and Herzegovina,2002,LM
+Bosnia and Herzegovina,2003,LM
+Bosnia and Herzegovina,2004,LM
+Bosnia and Herzegovina,2005,LM
+Bosnia and Herzegovina,2006,LM
+Bosnia and Herzegovina,2007,LM
+Bosnia and Herzegovina,2008,UM
+Bosnia and Herzegovina,2009,UM
+Bosnia and Herzegovina,2010,UM
+Bosnia and Herzegovina,2011,UM
+Bosnia and Herzegovina,2012,UM
+Bosnia and Herzegovina,2013,UM
+Bosnia and Herzegovina,2014,UM
+Bosnia and Herzegovina,2015,UM
+Bosnia and Herzegovina,2016,UM
+Bosnia and Herzegovina,2017,UM
+Botswana,2000,UM
+Botswana,2001,UM
+Botswana,2002,UM
+Botswana,2003,UM
+Botswana,2004,UM
+Botswana,2005,UM
+Botswana,2006,UM
+Botswana,2007,UM
+Botswana,2008,UM
+Botswana,2009,UM
+Botswana,2010,UM
+Botswana,2011,UM
+Botswana,2012,UM
+Botswana,2013,UM
+Botswana,2014,UM
+Botswana,2015,UM
+Botswana,2016,UM
+Botswana,2017,UM
+Brazil,2000,UM
+Brazil,2001,UM
+Brazil,2002,LM
+Brazil,2003,LM
+Brazil,2004,LM
+Brazil,2005,LM
+Brazil,2006,UM
+Brazil,2007,UM
+Brazil,2008,UM
+Brazil,2009,UM
+Brazil,2010,UM
+Brazil,2011,UM
+Brazil,2012,UM
+Brazil,2013,UM
+Brazil,2014,UM
+Brazil,2015,UM
+Brazil,2016,UM
+Brazil,2017,UM
+British Virgin Islands,2000,Unknown
+British Virgin Islands,2001,Unknown
+British Virgin Islands,2002,Unknown
+British Virgin Islands,2003,Unknown
+British Virgin Islands,2004,Unknown
+British Virgin Islands,2005,Unknown
+British Virgin Islands,2006,Unknown
+British Virgin Islands,2007,Unknown
+British Virgin Islands,2008,Unknown
+British Virgin Islands,2009,Unknown
+British Virgin Islands,2010,Unknown
+British Virgin Islands,2011,Unknown
+British Virgin Islands,2012,Unknown
+British Virgin Islands,2013,Unknown
+British Virgin Islands,2014,Unknown
+British Virgin Islands,2015,H
+British Virgin Islands,2016,H
+British Virgin Islands,2017,H
+Brunei Darussalam,2000,H
+Brunei Darussalam,2001,H
+Brunei Darussalam,2002,H
+Brunei Darussalam,2003,H
+Brunei Darussalam,2004,H
+Brunei Darussalam,2005,H
+Brunei Darussalam,2006,H
+Brunei Darussalam,2007,H
+Brunei Darussalam,2008,H
+Brunei Darussalam,2009,H
+Brunei Darussalam,2010,H
+Brunei Darussalam,2011,H
+Brunei Darussalam,2012,H
+Brunei Darussalam,2013,H
+Brunei Darussalam,2014,H
+Brunei Darussalam,2015,H
+Brunei Darussalam,2016,H
+Brunei Darussalam,2017,H
+Bulgaria,2000,LM
+Bulgaria,2001,LM
+Bulgaria,2002,LM
+Bulgaria,2003,LM
+Bulgaria,2004,LM
+Bulgaria,2005,LM
+Bulgaria,2006,UM
+Bulgaria,2007,UM
+Bulgaria,2008,UM
+Bulgaria,2009,UM
+Bulgaria,2010,UM
+Bulgaria,2011,UM
+Bulgaria,2012,UM
+Bulgaria,2013,UM
+Bulgaria,2014,UM
+Bulgaria,2015,UM
+Bulgaria,2016,UM
+Bulgaria,2017,UM
+Burkina Faso,2000,L
+Burkina Faso,2001,L
+Burkina Faso,2002,L
+Burkina Faso,2003,L
+Burkina Faso,2004,L
+Burkina Faso,2005,L
+Burkina Faso,2006,L
+Burkina Faso,2007,L
+Burkina Faso,2008,L
+Burkina Faso,2009,L
+Burkina Faso,2010,L
+Burkina Faso,2011,L
+Burkina Faso,2012,L
+Burkina Faso,2013,L
+Burkina Faso,2014,L
+Burkina Faso,2015,L
+Burkina Faso,2016,L
+Burkina Faso,2017,L
+Burundi,2000,L
+Burundi,2001,L
+Burundi,2002,L
+Burundi,2003,L
+Burundi,2004,L
+Burundi,2005,L
+Burundi,2006,L
+Burundi,2007,L
+Burundi,2008,L
+Burundi,2009,L
+Burundi,2010,L
+Burundi,2011,L
+Burundi,2012,L
+Burundi,2013,L
+Burundi,2014,L
+Burundi,2015,L
+Burundi,2016,L
+Burundi,2017,L
+Cabo Verde,2000,LM
+Cabo Verde,2001,LM
+Cabo Verde,2002,LM
+Cabo Verde,2003,LM
+Cabo Verde,2004,LM
+Cabo Verde,2005,LM
+Cabo Verde,2006,LM
+Cabo Verde,2007,LM
+Cabo Verde,2008,LM
+Cabo Verde,2009,LM
+Cabo Verde,2010,LM
+Cabo Verde,2011,LM
+Cabo Verde,2012,LM
+Cabo Verde,2013,LM
+Cabo Verde,2014,LM
+Cabo Verde,2015,LM
+Cabo Verde,2016,LM
+Cabo Verde,2017,LM
+Cambodia,2000,L
+Cambodia,2001,L
+Cambodia,2002,L
+Cambodia,2003,L
+Cambodia,2004,L
+Cambodia,2005,L
+Cambodia,2006,L
+Cambodia,2007,L
+Cambodia,2008,L
+Cambodia,2009,L
+Cambodia,2010,L
+Cambodia,2011,L
+Cambodia,2012,L
+Cambodia,2013,L
+Cambodia,2014,L
+Cambodia,2015,LM
+Cambodia,2016,LM
+Cambodia,2017,LM
+Cameroon,2000,L
+Cameroon,2001,L
+Cameroon,2002,L
+Cameroon,2003,L
+Cameroon,2004,L
+Cameroon,2005,LM
+Cameroon,2006,LM
+Cameroon,2007,LM
+Cameroon,2008,LM
+Cameroon,2009,LM
+Cameroon,2010,LM
+Cameroon,2011,LM
+Cameroon,2012,LM
+Cameroon,2013,LM
+Cameroon,2014,LM
+Cameroon,2015,LM
+Cameroon,2016,LM
+Cameroon,2017,LM
+Canada,2000,H
+Canada,2001,H
+Canada,2002,H
+Canada,2003,H
+Canada,2004,H
+Canada,2005,H
+Canada,2006,H
+Canada,2007,H
+Canada,2008,H
+Canada,2009,H
+Canada,2010,H
+Canada,2011,H
+Canada,2012,H
+Canada,2013,H
+Canada,2014,H
+Canada,2015,H
+Canada,2016,H
+Canada,2017,H
+Cayman Islands,2000,H
+Cayman Islands,2001,H
+Cayman Islands,2002,H
+Cayman Islands,2003,H
+Cayman Islands,2004,H
+Cayman Islands,2005,H
+Cayman Islands,2006,H
+Cayman Islands,2007,H
+Cayman Islands,2008,H
+Cayman Islands,2009,H
+Cayman Islands,2010,H
+Cayman Islands,2011,H
+Cayman Islands,2012,H
+Cayman Islands,2013,H
+Cayman Islands,2014,H
+Cayman Islands,2015,H
+Cayman Islands,2016,H
+Cayman Islands,2017,H
+Central African Republic,2000,L
+Central African Republic,2001,L
+Central African Republic,2002,L
+Central African Republic,2003,L
+Central African Republic,2004,L
+Central African Republic,2005,L
+Central African Republic,2006,L
+Central African Republic,2007,L
+Central African Republic,2008,L
+Central African Republic,2009,L
+Central African Republic,2010,L
+Central African Republic,2011,L
+Central African Republic,2012,L
+Central African Republic,2013,L
+Central African Republic,2014,L
+Central African Republic,2015,L
+Central African Republic,2016,L
+Central African Republic,2017,L
+Chad,2000,L
+Chad,2001,L
+Chad,2002,L
+Chad,2003,L
+Chad,2004,L
+Chad,2005,L
+Chad,2006,L
+Chad,2007,L
+Chad,2008,L
+Chad,2009,L
+Chad,2010,L
+Chad,2011,L
+Chad,2012,L
+Chad,2013,L
+Chad,2014,L
+Chad,2015,L
+Chad,2016,L
+Chad,2017,L
+Channel Islands,2000,H
+Channel Islands,2001,H
+Channel Islands,2002,H
+Channel Islands,2003,H
+Channel Islands,2004,H
+Channel Islands,2005,H
+Channel Islands,2006,H
+Channel Islands,2007,H
+Channel Islands,2008,H
+Channel Islands,2009,H
+Channel Islands,2010,H
+Channel Islands,2011,H
+Channel Islands,2012,H
+Channel Islands,2013,H
+Channel Islands,2014,H
+Channel Islands,2015,H
+Channel Islands,2016,H
+Channel Islands,2017,H
+Chile,2000,UM
+Chile,2001,UM
+Chile,2002,UM
+Chile,2003,UM
+Chile,2004,UM
+Chile,2005,UM
+Chile,2006,UM
+Chile,2007,UM
+Chile,2008,UM
+Chile,2009,UM
+Chile,2010,UM
+Chile,2011,UM
+Chile,2012,H
+Chile,2013,H
+Chile,2014,H
+Chile,2015,H
+Chile,2016,H
+Chile,2017,H
+China,2000,LM
+China,2001,LM
+China,2002,LM
+China,2003,LM
+China,2004,LM
+China,2005,LM
+China,2006,LM
+China,2007,LM
+China,2008,LM
+China,2009,LM
+China,2010,UM
+China,2011,UM
+China,2012,UM
+China,2013,UM
+China,2014,UM
+China,2015,UM
+China,2016,UM
+China,2017,UM
+Colombia,2000,LM
+Colombia,2001,LM
+Colombia,2002,LM
+Colombia,2003,LM
+Colombia,2004,LM
+Colombia,2005,LM
+Colombia,2006,LM
+Colombia,2007,LM
+Colombia,2008,UM
+Colombia,2009,UM
+Colombia,2010,UM
+Colombia,2011,UM
+Colombia,2012,UM
+Colombia,2013,UM
+Colombia,2014,UM
+Colombia,2015,UM
+Colombia,2016,UM
+Colombia,2017,UM
+Comoros,2000,L
+Comoros,2001,L
+Comoros,2002,L
+Comoros,2003,L
+Comoros,2004,L
+Comoros,2005,L
+Comoros,2006,L
+Comoros,2007,L
+Comoros,2008,L
+Comoros,2009,L
+Comoros,2010,L
+Comoros,2011,L
+Comoros,2012,L
+Comoros,2013,L
+Comoros,2014,L
+Comoros,2015,L
+Comoros,2016,L
+Comoros,2017,L
+"Congo, Dem. Rep.",2000,L
+"Congo, Dem. Rep.",2001,L
+"Congo, Dem. Rep.",2002,L
+"Congo, Dem. Rep.",2003,L
+"Congo, Dem. Rep.",2004,L
+"Congo, Dem. Rep.",2005,L
+"Congo, Dem. Rep.",2006,L
+"Congo, Dem. Rep.",2007,L
+"Congo, Dem. Rep.",2008,L
+"Congo, Dem. Rep.",2009,L
+"Congo, Dem. Rep.",2010,L
+"Congo, Dem. Rep.",2011,L
+"Congo, Dem. Rep.",2012,L
+"Congo, Dem. Rep.",2013,L
+"Congo, Dem. Rep.",2014,L
+"Congo, Dem. Rep.",2015,L
+"Congo, Dem. Rep.",2016,L
+"Congo, Dem. Rep.",2017,L
+"Congo, Rep.",2000,L
+"Congo, Rep.",2001,L
+"Congo, Rep.",2002,L
+"Congo, Rep.",2003,L
+"Congo, Rep.",2004,L
+"Congo, Rep.",2005,LM
+"Congo, Rep.",2006,LM
+"Congo, Rep.",2007,LM
+"Congo, Rep.",2008,LM
+"Congo, Rep.",2009,LM
+"Congo, Rep.",2010,LM
+"Congo, Rep.",2011,LM
+"Congo, Rep.",2012,LM
+"Congo, Rep.",2013,LM
+"Congo, Rep.",2014,LM
+"Congo, Rep.",2015,LM
+"Congo, Rep.",2016,LM
+"Congo, Rep.",2017,LM
+Costa Rica,2000,UM
+Costa Rica,2001,UM
+Costa Rica,2002,UM
+Costa Rica,2003,UM
+Costa Rica,2004,UM
+Costa Rica,2005,UM
+Costa Rica,2006,UM
+Costa Rica,2007,UM
+Costa Rica,2008,UM
+Costa Rica,2009,UM
+Costa Rica,2010,UM
+Costa Rica,2011,UM
+Costa Rica,2012,UM
+Costa Rica,2013,UM
+Costa Rica,2014,UM
+Costa Rica,2015,UM
+Costa Rica,2016,UM
+Costa Rica,2017,UM
+Côte d'Ivoire,2000,L
+Côte d'Ivoire,2001,L
+Côte d'Ivoire,2002,L
+Côte d'Ivoire,2003,L
+Côte d'Ivoire,2004,L
+Côte d'Ivoire,2005,L
+Côte d'Ivoire,2006,L
+Côte d'Ivoire,2007,L
+Côte d'Ivoire,2008,LM
+Côte d'Ivoire,2009,LM
+Côte d'Ivoire,2010,LM
+Côte d'Ivoire,2011,LM
+Côte d'Ivoire,2012,LM
+Côte d'Ivoire,2013,LM
+Côte d'Ivoire,2014,LM
+Côte d'Ivoire,2015,LM
+Côte d'Ivoire,2016,LM
+Côte d'Ivoire,2017,LM
+Croatia,2000,UM
+Croatia,2001,UM
+Croatia,2002,UM
+Croatia,2003,UM
+Croatia,2004,UM
+Croatia,2005,UM
+Croatia,2006,UM
+Croatia,2007,UM
+Croatia,2008,H
+Croatia,2009,H
+Croatia,2010,H
+Croatia,2011,H
+Croatia,2012,H
+Croatia,2013,H
+Croatia,2014,H
+Croatia,2015,H
+Croatia,2016,UM
+Croatia,2017,H
+Cuba,2000,LM
+Cuba,2001,LM
+Cuba,2002,LM
+Cuba,2003,LM
+Cuba,2004,LM
+Cuba,2005,LM
+Cuba,2006,LM
+Cuba,2007,UM
+Cuba,2008,UM
+Cuba,2009,UM
+Cuba,2010,UM
+Cuba,2011,UM
+Cuba,2012,UM
+Cuba,2013,UM
+Cuba,2014,UM
+Cuba,2015,UM
+Cuba,2016,UM
+Cuba,2017,UM
+Curaçao,2000,Unknown
+Curaçao,2001,Unknown
+Curaçao,2002,Unknown
+Curaçao,2003,Unknown
+Curaçao,2004,Unknown
+Curaçao,2005,Unknown
+Curaçao,2006,Unknown
+Curaçao,2007,Unknown
+Curaçao,2008,Unknown
+Curaçao,2009,Unknown
+Curaçao,2010,H
+Curaçao,2011,H
+Curaçao,2012,H
+Curaçao,2013,H
+Curaçao,2014,H
+Curaçao,2015,H
+Curaçao,2016,H
+Curaçao,2017,H
+Cyprus,2000,H
+Cyprus,2001,H
+Cyprus,2002,H
+Cyprus,2003,H
+Cyprus,2004,H
+Cyprus,2005,H
+Cyprus,2006,H
+Cyprus,2007,H
+Cyprus,2008,H
+Cyprus,2009,H
+Cyprus,2010,H
+Cyprus,2011,H
+Cyprus,2012,H
+Cyprus,2013,H
+Cyprus,2014,H
+Cyprus,2015,H
+Cyprus,2016,H
+Cyprus,2017,H
+Czech Republic,2000,UM
+Czech Republic,2001,UM
+Czech Republic,2002,UM
+Czech Republic,2003,UM
+Czech Republic,2004,UM
+Czech Republic,2005,UM
+Czech Republic,2006,H
+Czech Republic,2007,H
+Czech Republic,2008,H
+Czech Republic,2009,H
+Czech Republic,2010,H
+Czech Republic,2011,H
+Czech Republic,2012,H
+Czech Republic,2013,H
+Czech Republic,2014,H
+Czech Republic,2015,H
+Czech Republic,2016,H
+Czech Republic,2017,H
+Denmark,2000,H
+Denmark,2001,H
+Denmark,2002,H
+Denmark,2003,H
+Denmark,2004,H
+Denmark,2005,H
+Denmark,2006,H
+Denmark,2007,H
+Denmark,2008,H
+Denmark,2009,H
+Denmark,2010,H
+Denmark,2011,H
+Denmark,2012,H
+Denmark,2013,H
+Denmark,2014,H
+Denmark,2015,H
+Denmark,2016,H
+Denmark,2017,H
+Djibouti,2000,LM
+Djibouti,2001,LM
+Djibouti,2002,LM
+Djibouti,2003,LM
+Djibouti,2004,LM
+Djibouti,2005,LM
+Djibouti,2006,LM
+Djibouti,2007,LM
+Djibouti,2008,LM
+Djibouti,2009,LM
+Djibouti,2010,LM
+Djibouti,2011,LM
+Djibouti,2012,LM
+Djibouti,2013,LM
+Djibouti,2014,LM
+Djibouti,2015,LM
+Djibouti,2016,LM
+Djibouti,2017,LM
+Dominica,2000,UM
+Dominica,2001,UM
+Dominica,2002,UM
+Dominica,2003,UM
+Dominica,2004,UM
+Dominica,2005,UM
+Dominica,2006,UM
+Dominica,2007,UM
+Dominica,2008,UM
+Dominica,2009,UM
+Dominica,2010,UM
+Dominica,2011,UM
+Dominica,2012,UM
+Dominica,2013,UM
+Dominica,2014,UM
+Dominica,2015,UM
+Dominica,2016,UM
+Dominica,2017,UM
+Dominican Republic,2000,LM
+Dominican Republic,2001,LM
+Dominican Republic,2002,LM
+Dominican Republic,2003,LM
+Dominican Republic,2004,LM
+Dominican Republic,2005,LM
+Dominican Republic,2006,LM
+Dominican Republic,2007,LM
+Dominican Republic,2008,UM
+Dominican Republic,2009,UM
+Dominican Republic,2010,UM
+Dominican Republic,2011,UM
+Dominican Republic,2012,UM
+Dominican Republic,2013,UM
+Dominican Republic,2014,UM
+Dominican Republic,2015,UM
+Dominican Republic,2016,UM
+Dominican Republic,2017,UM
+Ecuador,2000,LM
+Ecuador,2001,LM
+Ecuador,2002,LM
+Ecuador,2003,LM
+Ecuador,2004,LM
+Ecuador,2005,LM
+Ecuador,2006,LM
+Ecuador,2007,LM
+Ecuador,2008,LM
+Ecuador,2009,LM
+Ecuador,2010,UM
+Ecuador,2011,UM
+Ecuador,2012,UM
+Ecuador,2013,UM
+Ecuador,2014,UM
+Ecuador,2015,UM
+Ecuador,2016,UM
+Ecuador,2017,UM
+"Egypt, Arab Rep.",2000,LM
+"Egypt, Arab Rep.",2001,LM
+"Egypt, Arab Rep.",2002,LM
+"Egypt, Arab Rep.",2003,LM
+"Egypt, Arab Rep.",2004,LM
+"Egypt, Arab Rep.",2005,LM
+"Egypt, Arab Rep.",2006,LM
+"Egypt, Arab Rep.",2007,LM
+"Egypt, Arab Rep.",2008,LM
+"Egypt, Arab Rep.",2009,LM
+"Egypt, Arab Rep.",2010,LM
+"Egypt, Arab Rep.",2011,LM
+"Egypt, Arab Rep.",2012,LM
+"Egypt, Arab Rep.",2013,LM
+"Egypt, Arab Rep.",2014,LM
+"Egypt, Arab Rep.",2015,LM
+"Egypt, Arab Rep.",2016,LM
+"Egypt, Arab Rep.",2017,LM
+El Salvador,2000,LM
+El Salvador,2001,LM
+El Salvador,2002,LM
+El Salvador,2003,LM
+El Salvador,2004,LM
+El Salvador,2005,LM
+El Salvador,2006,LM
+El Salvador,2007,LM
+El Salvador,2008,LM
+El Salvador,2009,LM
+El Salvador,2010,LM
+El Salvador,2011,LM
+El Salvador,2012,LM
+El Salvador,2013,LM
+El Salvador,2014,LM
+El Salvador,2015,LM
+El Salvador,2016,LM
+El Salvador,2017,LM
+Equatorial Guinea,2000,LM
+Equatorial Guinea,2001,L
+Equatorial Guinea,2002,L
+Equatorial Guinea,2003,L
+Equatorial Guinea,2004,UM
+Equatorial Guinea,2005,UM
+Equatorial Guinea,2006,UM
+Equatorial Guinea,2007,H
+Equatorial Guinea,2008,H
+Equatorial Guinea,2009,H
+Equatorial Guinea,2010,H
+Equatorial Guinea,2011,H
+Equatorial Guinea,2012,H
+Equatorial Guinea,2013,H
+Equatorial Guinea,2014,H
+Equatorial Guinea,2015,UM
+Equatorial Guinea,2016,UM
+Equatorial Guinea,2017,UM
+Eritrea,2000,L
+Eritrea,2001,L
+Eritrea,2002,L
+Eritrea,2003,L
+Eritrea,2004,L
+Eritrea,2005,L
+Eritrea,2006,L
+Eritrea,2007,L
+Eritrea,2008,L
+Eritrea,2009,L
+Eritrea,2010,L
+Eritrea,2011,L
+Eritrea,2012,L
+Eritrea,2013,L
+Eritrea,2014,L
+Eritrea,2015,L
+Eritrea,2016,L
+Eritrea,2017,L
+Estonia,2000,UM
+Estonia,2001,UM
+Estonia,2002,UM
+Estonia,2003,UM
+Estonia,2004,UM
+Estonia,2005,UM
+Estonia,2006,H
+Estonia,2007,H
+Estonia,2008,H
+Estonia,2009,H
+Estonia,2010,H
+Estonia,2011,H
+Estonia,2012,H
+Estonia,2013,H
+Estonia,2014,H
+Estonia,2015,H
+Estonia,2016,H
+Estonia,2017,H
+Ethiopia,2000,L
+Ethiopia,2001,L
+Ethiopia,2002,L
+Ethiopia,2003,L
+Ethiopia,2004,L
+Ethiopia,2005,L
+Ethiopia,2006,L
+Ethiopia,2007,L
+Ethiopia,2008,L
+Ethiopia,2009,L
+Ethiopia,2010,L
+Ethiopia,2011,L
+Ethiopia,2012,L
+Ethiopia,2013,L
+Ethiopia,2014,L
+Ethiopia,2015,L
+Ethiopia,2016,L
+Ethiopia,2017,L
+Faeroe Islands,2000,H
+Faeroe Islands,2001,H
+Faeroe Islands,2002,H
+Faeroe Islands,2003,H
+Faeroe Islands,2004,H
+Faeroe Islands,2005,H
+Faeroe Islands,2006,H
+Faeroe Islands,2007,H
+Faeroe Islands,2008,H
+Faeroe Islands,2009,H
+Faeroe Islands,2010,H
+Faeroe Islands,2011,H
+Faeroe Islands,2012,H
+Faeroe Islands,2013,H
+Faeroe Islands,2014,H
+Faeroe Islands,2015,H
+Faeroe Islands,2016,H
+Faeroe Islands,2017,H
+Fiji,2000,LM
+Fiji,2001,LM
+Fiji,2002,LM
+Fiji,2003,LM
+Fiji,2004,LM
+Fiji,2005,LM
+Fiji,2006,LM
+Fiji,2007,UM
+Fiji,2008,UM
+Fiji,2009,UM
+Fiji,2010,LM
+Fiji,2011,LM
+Fiji,2012,UM
+Fiji,2013,UM
+Fiji,2014,UM
+Fiji,2015,UM
+Fiji,2016,UM
+Fiji,2017,UM
+Finland,2000,H
+Finland,2001,H
+Finland,2002,H
+Finland,2003,H
+Finland,2004,H
+Finland,2005,H
+Finland,2006,H
+Finland,2007,H
+Finland,2008,H
+Finland,2009,H
+Finland,2010,H
+Finland,2011,H
+Finland,2012,H
+Finland,2013,H
+Finland,2014,H
+Finland,2015,H
+Finland,2016,H
+Finland,2017,H
+France,2000,H
+France,2001,H
+France,2002,H
+France,2003,H
+France,2004,H
+France,2005,H
+France,2006,H
+France,2007,H
+France,2008,H
+France,2009,H
+France,2010,H
+France,2011,H
+France,2012,H
+France,2013,H
+France,2014,H
+France,2015,H
+France,2016,H
+France,2017,H
+French Polynesia,2000,H
+French Polynesia,2001,H
+French Polynesia,2002,H
+French Polynesia,2003,H
+French Polynesia,2004,H
+French Polynesia,2005,H
+French Polynesia,2006,H
+French Polynesia,2007,H
+French Polynesia,2008,H
+French Polynesia,2009,H
+French Polynesia,2010,H
+French Polynesia,2011,H
+French Polynesia,2012,H
+French Polynesia,2013,H
+French Polynesia,2014,H
+French Polynesia,2015,H
+French Polynesia,2016,H
+French Polynesia,2017,H
+Gabon,2000,UM
+Gabon,2001,UM
+Gabon,2002,UM
+Gabon,2003,UM
+Gabon,2004,UM
+Gabon,2005,UM
+Gabon,2006,UM
+Gabon,2007,UM
+Gabon,2008,UM
+Gabon,2009,UM
+Gabon,2010,UM
+Gabon,2011,UM
+Gabon,2012,UM
+Gabon,2013,UM
+Gabon,2014,UM
+Gabon,2015,UM
+Gabon,2016,UM
+Gabon,2017,UM
+"Gambia, The",2000,L
+"Gambia, The",2001,L
+"Gambia, The",2002,L
+"Gambia, The",2003,L
+"Gambia, The",2004,L
+"Gambia, The",2005,L
+"Gambia, The",2006,L
+"Gambia, The",2007,L
+"Gambia, The",2008,L
+"Gambia, The",2009,L
+"Gambia, The",2010,L
+"Gambia, The",2011,L
+"Gambia, The",2012,L
+"Gambia, The",2013,L
+"Gambia, The",2014,L
+"Gambia, The",2015,L
+"Gambia, The",2016,L
+"Gambia, The",2017,L
+Georgia,2000,L
+Georgia,2001,L
+Georgia,2002,L
+Georgia,2003,LM
+Georgia,2004,LM
+Georgia,2005,LM
+Georgia,2006,LM
+Georgia,2007,LM
+Georgia,2008,LM
+Georgia,2009,LM
+Georgia,2010,LM
+Georgia,2011,LM
+Georgia,2012,LM
+Georgia,2013,LM
+Georgia,2014,LM
+Georgia,2015,UM
+Georgia,2016,LM
+Georgia,2017,LM
+Germany,2000,H
+Germany,2001,H
+Germany,2002,H
+Germany,2003,H
+Germany,2004,H
+Germany,2005,H
+Germany,2006,H
+Germany,2007,H
+Germany,2008,H
+Germany,2009,H
+Germany,2010,H
+Germany,2011,H
+Germany,2012,H
+Germany,2013,H
+Germany,2014,H
+Germany,2015,H
+Germany,2016,H
+Germany,2017,H
+Ghana,2000,L
+Ghana,2001,L
+Ghana,2002,L
+Ghana,2003,L
+Ghana,2004,L
+Ghana,2005,L
+Ghana,2006,L
+Ghana,2007,L
+Ghana,2008,L
+Ghana,2009,L
+Ghana,2010,LM
+Ghana,2011,LM
+Ghana,2012,LM
+Ghana,2013,LM
+Ghana,2014,LM
+Ghana,2015,LM
+Ghana,2016,LM
+Ghana,2017,LM
+Gibraltar,2000,Unknown
+Gibraltar,2001,Unknown
+Gibraltar,2002,Unknown
+Gibraltar,2003,Unknown
+Gibraltar,2004,Unknown
+Gibraltar,2005,Unknown
+Gibraltar,2006,Unknown
+Gibraltar,2007,Unknown
+Gibraltar,2008,Unknown
+Gibraltar,2009,H
+Gibraltar,2010,H
+Gibraltar,2011,Unknown
+Gibraltar,2012,Unknown
+Gibraltar,2013,Unknown
+Gibraltar,2014,Unknown
+Gibraltar,2015,H
+Gibraltar,2016,H
+Gibraltar,2017,H
+Greece,2000,H
+Greece,2001,H
+Greece,2002,H
+Greece,2003,H
+Greece,2004,H
+Greece,2005,H
+Greece,2006,H
+Greece,2007,H
+Greece,2008,H
+Greece,2009,H
+Greece,2010,H
+Greece,2011,H
+Greece,2012,H
+Greece,2013,H
+Greece,2014,H
+Greece,2015,H
+Greece,2016,H
+Greece,2017,H
+Greenland,2000,H
+Greenland,2001,H
+Greenland,2002,H
+Greenland,2003,H
+Greenland,2004,H
+Greenland,2005,H
+Greenland,2006,H
+Greenland,2007,H
+Greenland,2008,H
+Greenland,2009,H
+Greenland,2010,H
+Greenland,2011,H
+Greenland,2012,H
+Greenland,2013,H
+Greenland,2014,H
+Greenland,2015,H
+Greenland,2016,H
+Greenland,2017,H
+Grenada,2000,UM
+Grenada,2001,UM
+Grenada,2002,UM
+Grenada,2003,UM
+Grenada,2004,UM
+Grenada,2005,UM
+Grenada,2006,UM
+Grenada,2007,UM
+Grenada,2008,UM
+Grenada,2009,UM
+Grenada,2010,UM
+Grenada,2011,UM
+Grenada,2012,UM
+Grenada,2013,UM
+Grenada,2014,UM
+Grenada,2015,UM
+Grenada,2016,UM
+Grenada,2017,UM
+Guam,2000,H
+Guam,2001,H
+Guam,2002,H
+Guam,2003,H
+Guam,2004,H
+Guam,2005,H
+Guam,2006,H
+Guam,2007,H
+Guam,2008,H
+Guam,2009,H
+Guam,2010,H
+Guam,2011,H
+Guam,2012,H
+Guam,2013,H
+Guam,2014,H
+Guam,2015,H
+Guam,2016,H
+Guam,2017,H
+Guatemala,2000,LM
+Guatemala,2001,LM
+Guatemala,2002,LM
+Guatemala,2003,LM
+Guatemala,2004,LM
+Guatemala,2005,LM
+Guatemala,2006,LM
+Guatemala,2007,LM
+Guatemala,2008,LM
+Guatemala,2009,LM
+Guatemala,2010,LM
+Guatemala,2011,LM
+Guatemala,2012,LM
+Guatemala,2013,LM
+Guatemala,2014,LM
+Guatemala,2015,LM
+Guatemala,2016,LM
+Guatemala,2017,UM
+Guinea,2000,L
+Guinea,2001,L
+Guinea,2002,L
+Guinea,2003,L
+Guinea,2004,L
+Guinea,2005,L
+Guinea,2006,L
+Guinea,2007,L
+Guinea,2008,L
+Guinea,2009,L
+Guinea,2010,L
+Guinea,2011,L
+Guinea,2012,L
+Guinea,2013,L
+Guinea,2014,L
+Guinea,2015,L
+Guinea,2016,L
+Guinea,2017,L
+Guinea-Bissau,2000,L
+Guinea-Bissau,2001,L
+Guinea-Bissau,2002,L
+Guinea-Bissau,2003,L
+Guinea-Bissau,2004,L
+Guinea-Bissau,2005,L
+Guinea-Bissau,2006,L
+Guinea-Bissau,2007,L
+Guinea-Bissau,2008,L
+Guinea-Bissau,2009,L
+Guinea-Bissau,2010,L
+Guinea-Bissau,2011,L
+Guinea-Bissau,2012,L
+Guinea-Bissau,2013,L
+Guinea-Bissau,2014,L
+Guinea-Bissau,2015,L
+Guinea-Bissau,2016,L
+Guinea-Bissau,2017,L
+Guyana,2000,LM
+Guyana,2001,LM
+Guyana,2002,LM
+Guyana,2003,LM
+Guyana,2004,LM
+Guyana,2005,LM
+Guyana,2006,LM
+Guyana,2007,LM
+Guyana,2008,LM
+Guyana,2009,LM
+Guyana,2010,LM
+Guyana,2011,LM
+Guyana,2012,LM
+Guyana,2013,LM
+Guyana,2014,LM
+Guyana,2015,UM
+Guyana,2016,UM
+Guyana,2017,UM
+Haiti,2000,L
+Haiti,2001,L
+Haiti,2002,L
+Haiti,2003,L
+Haiti,2004,L
+Haiti,2005,L
+Haiti,2006,L
+Haiti,2007,L
+Haiti,2008,L
+Haiti,2009,L
+Haiti,2010,L
+Haiti,2011,L
+Haiti,2012,L
+Haiti,2013,L
+Haiti,2014,L
+Haiti,2015,L
+Haiti,2016,L
+Haiti,2017,L
+Honduras,2000,LM
+Honduras,2001,LM
+Honduras,2002,LM
+Honduras,2003,LM
+Honduras,2004,LM
+Honduras,2005,LM
+Honduras,2006,LM
+Honduras,2007,LM
+Honduras,2008,LM
+Honduras,2009,LM
+Honduras,2010,LM
+Honduras,2011,LM
+Honduras,2012,LM
+Honduras,2013,LM
+Honduras,2014,LM
+Honduras,2015,LM
+Honduras,2016,LM
+Honduras,2017,LM
+"Hong Kong SAR, China",2000,H
+"Hong Kong SAR, China",2001,H
+"Hong Kong SAR, China",2002,H
+"Hong Kong SAR, China",2003,H
+"Hong Kong SAR, China",2004,H
+"Hong Kong SAR, China",2005,H
+"Hong Kong SAR, China",2006,H
+"Hong Kong SAR, China",2007,H
+"Hong Kong SAR, China",2008,H
+"Hong Kong SAR, China",2009,H
+"Hong Kong SAR, China",2010,H
+"Hong Kong SAR, China",2011,H
+"Hong Kong SAR, China",2012,H
+"Hong Kong SAR, China",2013,H
+"Hong Kong SAR, China",2014,H
+"Hong Kong SAR, China",2015,H
+"Hong Kong SAR, China",2016,H
+"Hong Kong SAR, China",2017,H
+Hungary,2000,UM
+Hungary,2001,UM
+Hungary,2002,UM
+Hungary,2003,UM
+Hungary,2004,UM
+Hungary,2005,UM
+Hungary,2006,UM
+Hungary,2007,H
+Hungary,2008,H
+Hungary,2009,H
+Hungary,2010,H
+Hungary,2011,H
+Hungary,2012,UM
+Hungary,2013,UM
+Hungary,2014,H
+Hungary,2015,H
+Hungary,2016,H
+Hungary,2017,H
+Iceland,2000,H
+Iceland,2001,H
+Iceland,2002,H
+Iceland,2003,H
+Iceland,2004,H
+Iceland,2005,H
+Iceland,2006,H
+Iceland,2007,H
+Iceland,2008,H
+Iceland,2009,H
+Iceland,2010,H
+Iceland,2011,H
+Iceland,2012,H
+Iceland,2013,H
+Iceland,2014,H
+Iceland,2015,H
+Iceland,2016,H
+Iceland,2017,H
+India,2000,L
+India,2001,L
+India,2002,L
+India,2003,L
+India,2004,L
+India,2005,L
+India,2006,L
+India,2007,LM
+India,2008,LM
+India,2009,LM
+India,2010,LM
+India,2011,LM
+India,2012,LM
+India,2013,LM
+India,2014,LM
+India,2015,LM
+India,2016,LM
+India,2017,LM
+Indonesia,2000,L
+Indonesia,2001,L
+Indonesia,2002,L
+Indonesia,2003,LM
+Indonesia,2004,LM
+Indonesia,2005,LM
+Indonesia,2006,LM
+Indonesia,2007,LM
+Indonesia,2008,LM
+Indonesia,2009,LM
+Indonesia,2010,LM
+Indonesia,2011,LM
+Indonesia,2012,LM
+Indonesia,2013,LM
+Indonesia,2014,LM
+Indonesia,2015,LM
+Indonesia,2016,LM
+Indonesia,2017,LM
+"Iran, Islamic Rep.",2000,LM
+"Iran, Islamic Rep.",2001,LM
+"Iran, Islamic Rep.",2002,LM
+"Iran, Islamic Rep.",2003,LM
+"Iran, Islamic Rep.",2004,LM
+"Iran, Islamic Rep.",2005,LM
+"Iran, Islamic Rep.",2006,LM
+"Iran, Islamic Rep.",2007,LM
+"Iran, Islamic Rep.",2008,LM
+"Iran, Islamic Rep.",2009,UM
+"Iran, Islamic Rep.",2010,UM
+"Iran, Islamic Rep.",2011,UM
+"Iran, Islamic Rep.",2012,UM
+"Iran, Islamic Rep.",2013,UM
+"Iran, Islamic Rep.",2014,UM
+"Iran, Islamic Rep.",2015,UM
+"Iran, Islamic Rep.",2016,UM
+"Iran, Islamic Rep.",2017,UM
+Iraq,2000,LM
+Iraq,2001,LM
+Iraq,2002,LM
+Iraq,2003,LM
+Iraq,2004,LM
+Iraq,2005,LM
+Iraq,2006,LM
+Iraq,2007,LM
+Iraq,2008,LM
+Iraq,2009,LM
+Iraq,2010,LM
+Iraq,2011,LM
+Iraq,2012,UM
+Iraq,2013,UM
+Iraq,2014,UM
+Iraq,2015,UM
+Iraq,2016,UM
+Iraq,2017,UM
+Ireland,2000,H
+Ireland,2001,H
+Ireland,2002,H
+Ireland,2003,H
+Ireland,2004,H
+Ireland,2005,H
+Ireland,2006,H
+Ireland,2007,H
+Ireland,2008,H
+Ireland,2009,H
+Ireland,2010,H
+Ireland,2011,H
+Ireland,2012,H
+Ireland,2013,H
+Ireland,2014,H
+Ireland,2015,H
+Ireland,2016,H
+Ireland,2017,H
+Isle of Man,2000,UM
+Isle of Man,2001,UM
+Isle of Man,2002,H
+Isle of Man,2003,H
+Isle of Man,2004,H
+Isle of Man,2005,H
+Isle of Man,2006,H
+Isle of Man,2007,H
+Isle of Man,2008,H
+Isle of Man,2009,H
+Isle of Man,2010,H
+Isle of Man,2011,H
+Isle of Man,2012,H
+Isle of Man,2013,H
+Isle of Man,2014,H
+Isle of Man,2015,H
+Isle of Man,2016,H
+Isle of Man,2017,H
+Israel,2000,H
+Israel,2001,H
+Israel,2002,H
+Israel,2003,H
+Israel,2004,H
+Israel,2005,H
+Israel,2006,H
+Israel,2007,H
+Israel,2008,H
+Israel,2009,H
+Israel,2010,H
+Israel,2011,H
+Israel,2012,H
+Israel,2013,H
+Israel,2014,H
+Israel,2015,H
+Israel,2016,H
+Israel,2017,H
+Italy,2000,H
+Italy,2001,H
+Italy,2002,H
+Italy,2003,H
+Italy,2004,H
+Italy,2005,H
+Italy,2006,H
+Italy,2007,H
+Italy,2008,H
+Italy,2009,H
+Italy,2010,H
+Italy,2011,H
+Italy,2012,H
+Italy,2013,H
+Italy,2014,H
+Italy,2015,H
+Italy,2016,H
+Italy,2017,H
+Jamaica,2000,LM
+Jamaica,2001,LM
+Jamaica,2002,LM
+Jamaica,2003,LM
+Jamaica,2004,LM
+Jamaica,2005,LM
+Jamaica,2006,LM
+Jamaica,2007,UM
+Jamaica,2008,UM
+Jamaica,2009,UM
+Jamaica,2010,UM
+Jamaica,2011,UM
+Jamaica,2012,UM
+Jamaica,2013,UM
+Jamaica,2014,UM
+Jamaica,2015,UM
+Jamaica,2016,UM
+Jamaica,2017,UM
+Japan,2000,H
+Japan,2001,H
+Japan,2002,H
+Japan,2003,H
+Japan,2004,H
+Japan,2005,H
+Japan,2006,H
+Japan,2007,H
+Japan,2008,H
+Japan,2009,H
+Japan,2010,H
+Japan,2011,H
+Japan,2012,H
+Japan,2013,H
+Japan,2014,H
+Japan,2015,H
+Japan,2016,H
+Japan,2017,H
+Jordan,2000,LM
+Jordan,2001,LM
+Jordan,2002,LM
+Jordan,2003,LM
+Jordan,2004,LM
+Jordan,2005,LM
+Jordan,2006,LM
+Jordan,2007,LM
+Jordan,2008,LM
+Jordan,2009,LM
+Jordan,2010,UM
+Jordan,2011,UM
+Jordan,2012,UM
+Jordan,2013,UM
+Jordan,2014,UM
+Jordan,2015,UM
+Jordan,2016,LM
+Jordan,2017,UM
+Kazakhstan,2000,LM
+Kazakhstan,2001,LM
+Kazakhstan,2002,LM
+Kazakhstan,2003,LM
+Kazakhstan,2004,LM
+Kazakhstan,2005,LM
+Kazakhstan,2006,UM
+Kazakhstan,2007,UM
+Kazakhstan,2008,UM
+Kazakhstan,2009,UM
+Kazakhstan,2010,UM
+Kazakhstan,2011,UM
+Kazakhstan,2012,UM
+Kazakhstan,2013,UM
+Kazakhstan,2014,UM
+Kazakhstan,2015,UM
+Kazakhstan,2016,UM
+Kazakhstan,2017,UM
+Kenya,2000,L
+Kenya,2001,L
+Kenya,2002,L
+Kenya,2003,L
+Kenya,2004,L
+Kenya,2005,L
+Kenya,2006,L
+Kenya,2007,L
+Kenya,2008,L
+Kenya,2009,L
+Kenya,2010,L
+Kenya,2011,L
+Kenya,2012,L
+Kenya,2013,L
+Kenya,2014,LM
+Kenya,2015,LM
+Kenya,2016,LM
+Kenya,2017,LM
+Kiribati,2000,LM
+Kiribati,2001,LM
+Kiribati,2002,LM
+Kiribati,2003,LM
+Kiribati,2004,LM
+Kiribati,2005,LM
+Kiribati,2006,LM
+Kiribati,2007,LM
+Kiribati,2008,LM
+Kiribati,2009,LM
+Kiribati,2010,LM
+Kiribati,2011,LM
+Kiribati,2012,LM
+Kiribati,2013,LM
+Kiribati,2014,LM
+Kiribati,2015,LM
+Kiribati,2016,LM
+Kiribati,2017,LM
+"Korea, Dem. Rep.",2000,L
+"Korea, Dem. Rep.",2001,L
+"Korea, Dem. Rep.",2002,L
+"Korea, Dem. Rep.",2003,L
+"Korea, Dem. Rep.",2004,L
+"Korea, Dem. Rep.",2005,L
+"Korea, Dem. Rep.",2006,L
+"Korea, Dem. Rep.",2007,L
+"Korea, Dem. Rep.",2008,L
+"Korea, Dem. Rep.",2009,L
+"Korea, Dem. Rep.",2010,L
+"Korea, Dem. Rep.",2011,L
+"Korea, Dem. Rep.",2012,L
+"Korea, Dem. Rep.",2013,L
+"Korea, Dem. Rep.",2014,L
+"Korea, Dem. Rep.",2015,L
+"Korea, Dem. Rep.",2016,L
+"Korea, Dem. Rep.",2017,L
+"Korea, Rep.",2000,UM
+"Korea, Rep.",2001,H
+"Korea, Rep.",2002,H
+"Korea, Rep.",2003,H
+"Korea, Rep.",2004,H
+"Korea, Rep.",2005,H
+"Korea, Rep.",2006,H
+"Korea, Rep.",2007,H
+"Korea, Rep.",2008,H
+"Korea, Rep.",2009,H
+"Korea, Rep.",2010,H
+"Korea, Rep.",2011,H
+"Korea, Rep.",2012,H
+"Korea, Rep.",2013,H
+"Korea, Rep.",2014,H
+"Korea, Rep.",2015,H
+"Korea, Rep.",2016,H
+"Korea, Rep.",2017,H
+Kosovo,2000,Unknown
+Kosovo,2001,Unknown
+Kosovo,2002,Unknown
+Kosovo,2003,Unknown
+Kosovo,2004,Unknown
+Kosovo,2005,Unknown
+Kosovo,2006,Unknown
+Kosovo,2007,Unknown
+Kosovo,2008,LM
+Kosovo,2009,LM
+Kosovo,2010,LM
+Kosovo,2011,LM
+Kosovo,2012,LM
+Kosovo,2013,LM
+Kosovo,2014,LM
+Kosovo,2015,LM
+Kosovo,2016,LM
+Kosovo,2017,LM
+Kuwait,2000,H
+Kuwait,2001,H
+Kuwait,2002,H
+Kuwait,2003,H
+Kuwait,2004,H
+Kuwait,2005,H
+Kuwait,2006,H
+Kuwait,2007,H
+Kuwait,2008,H
+Kuwait,2009,H
+Kuwait,2010,H
+Kuwait,2011,H
+Kuwait,2012,H
+Kuwait,2013,H
+Kuwait,2014,H
+Kuwait,2015,H
+Kuwait,2016,H
+Kuwait,2017,H
+Kyrgyz Republic,2000,L
+Kyrgyz Republic,2001,L
+Kyrgyz Republic,2002,L
+Kyrgyz Republic,2003,L
+Kyrgyz Republic,2004,L
+Kyrgyz Republic,2005,L
+Kyrgyz Republic,2006,L
+Kyrgyz Republic,2007,L
+Kyrgyz Republic,2008,L
+Kyrgyz Republic,2009,L
+Kyrgyz Republic,2010,L
+Kyrgyz Republic,2011,L
+Kyrgyz Republic,2012,L
+Kyrgyz Republic,2013,LM
+Kyrgyz Republic,2014,LM
+Kyrgyz Republic,2015,LM
+Kyrgyz Republic,2016,LM
+Kyrgyz Republic,2017,LM
+Lao PDR,2000,L
+Lao PDR,2001,L
+Lao PDR,2002,L
+Lao PDR,2003,L
+Lao PDR,2004,L
+Lao PDR,2005,L
+Lao PDR,2006,L
+Lao PDR,2007,L
+Lao PDR,2008,L
+Lao PDR,2009,L
+Lao PDR,2010,LM
+Lao PDR,2011,LM
+Lao PDR,2012,LM
+Lao PDR,2013,LM
+Lao PDR,2014,LM
+Lao PDR,2015,LM
+Lao PDR,2016,LM
+Lao PDR,2017,LM
+Latvia,2000,LM
+Latvia,2001,UM
+Latvia,2002,UM
+Latvia,2003,UM
+Latvia,2004,UM
+Latvia,2005,UM
+Latvia,2006,UM
+Latvia,2007,UM
+Latvia,2008,UM
+Latvia,2009,H
+Latvia,2010,UM
+Latvia,2011,UM
+Latvia,2012,H
+Latvia,2013,H
+Latvia,2014,H
+Latvia,2015,H
+Latvia,2016,H
+Latvia,2017,H
+Lebanon,2000,UM
+Lebanon,2001,UM
+Lebanon,2002,UM
+Lebanon,2003,UM
+Lebanon,2004,UM
+Lebanon,2005,UM
+Lebanon,2006,UM
+Lebanon,2007,UM
+Lebanon,2008,UM
+Lebanon,2009,UM
+Lebanon,2010,UM
+Lebanon,2011,UM
+Lebanon,2012,UM
+Lebanon,2013,UM
+Lebanon,2014,UM
+Lebanon,2015,UM
+Lebanon,2016,UM
+Lebanon,2017,UM
+Lesotho,2000,L
+Lesotho,2001,L
+Lesotho,2002,L
+Lesotho,2003,L
+Lesotho,2004,L
+Lesotho,2005,LM
+Lesotho,2006,LM
+Lesotho,2007,LM
+Lesotho,2008,LM
+Lesotho,2009,LM
+Lesotho,2010,LM
+Lesotho,2011,LM
+Lesotho,2012,LM
+Lesotho,2013,LM
+Lesotho,2014,LM
+Lesotho,2015,LM
+Lesotho,2016,LM
+Lesotho,2017,LM
+Liberia,2000,L
+Liberia,2001,L
+Liberia,2002,L
+Liberia,2003,L
+Liberia,2004,L
+Liberia,2005,L
+Liberia,2006,L
+Liberia,2007,L
+Liberia,2008,L
+Liberia,2009,L
+Liberia,2010,L
+Liberia,2011,L
+Liberia,2012,L
+Liberia,2013,L
+Liberia,2014,L
+Liberia,2015,L
+Liberia,2016,L
+Liberia,2017,L
+Libya,2000,UM
+Libya,2001,UM
+Libya,2002,UM
+Libya,2003,UM
+Libya,2004,UM
+Libya,2005,UM
+Libya,2006,UM
+Libya,2007,UM
+Libya,2008,UM
+Libya,2009,UM
+Libya,2010,UM
+Libya,2011,UM
+Libya,2012,UM
+Libya,2013,UM
+Libya,2014,UM
+Libya,2015,UM
+Libya,2016,UM
+Libya,2017,UM
+Liechtenstein,2000,H
+Liechtenstein,2001,H
+Liechtenstein,2002,H
+Liechtenstein,2003,H
+Liechtenstein,2004,H
+Liechtenstein,2005,H
+Liechtenstein,2006,H
+Liechtenstein,2007,H
+Liechtenstein,2008,H
+Liechtenstein,2009,H
+Liechtenstein,2010,H
+Liechtenstein,2011,H
+Liechtenstein,2012,H
+Liechtenstein,2013,H
+Liechtenstein,2014,H
+Liechtenstein,2015,H
+Liechtenstein,2016,H
+Liechtenstein,2017,H
+Lithuania,2000,LM
+Lithuania,2001,UM
+Lithuania,2002,UM
+Lithuania,2003,UM
+Lithuania,2004,UM
+Lithuania,2005,UM
+Lithuania,2006,UM
+Lithuania,2007,UM
+Lithuania,2008,UM
+Lithuania,2009,UM
+Lithuania,2010,UM
+Lithuania,2011,UM
+Lithuania,2012,H
+Lithuania,2013,H
+Lithuania,2014,H
+Lithuania,2015,H
+Lithuania,2016,H
+Lithuania,2017,H
+Luxembourg,2000,H
+Luxembourg,2001,H
+Luxembourg,2002,H
+Luxembourg,2003,H
+Luxembourg,2004,H
+Luxembourg,2005,H
+Luxembourg,2006,H
+Luxembourg,2007,H
+Luxembourg,2008,H
+Luxembourg,2009,H
+Luxembourg,2010,H
+Luxembourg,2011,H
+Luxembourg,2012,H
+Luxembourg,2013,H
+Luxembourg,2014,H
+Luxembourg,2015,H
+Luxembourg,2016,H
+Luxembourg,2017,H
+"Macao SAR, China",2000,H
+"Macao SAR, China",2001,H
+"Macao SAR, China",2002,H
+"Macao SAR, China",2003,H
+"Macao SAR, China",2004,H
+"Macao SAR, China",2005,H
+"Macao SAR, China",2006,H
+"Macao SAR, China",2007,H
+"Macao SAR, China",2008,H
+"Macao SAR, China",2009,H
+"Macao SAR, China",2010,H
+"Macao SAR, China",2011,H
+"Macao SAR, China",2012,H
+"Macao SAR, China",2013,H
+"Macao SAR, China",2014,H
+"Macao SAR, China",2015,H
+"Macao SAR, China",2016,H
+"Macao SAR, China",2017,H
+"Macedonia, FYR",2000,LM
+"Macedonia, FYR",2001,LM
+"Macedonia, FYR",2002,LM
+"Macedonia, FYR",2003,LM
+"Macedonia, FYR",2004,LM
+"Macedonia, FYR",2005,LM
+"Macedonia, FYR",2006,LM
+"Macedonia, FYR",2007,LM
+"Macedonia, FYR",2008,UM
+"Macedonia, FYR",2009,UM
+"Macedonia, FYR",2010,UM
+"Macedonia, FYR",2011,UM
+"Macedonia, FYR",2012,UM
+"Macedonia, FYR",2013,UM
+"Macedonia, FYR",2014,UM
+"Macedonia, FYR",2015,UM
+"Macedonia, FYR",2016,UM
+"Macedonia, FYR",2017,UM
+Madagascar,2000,L
+Madagascar,2001,L
+Madagascar,2002,L
+Madagascar,2003,L
+Madagascar,2004,L
+Madagascar,2005,L
+Madagascar,2006,L
+Madagascar,2007,L
+Madagascar,2008,L
+Madagascar,2009,L
+Madagascar,2010,L
+Madagascar,2011,L
+Madagascar,2012,L
+Madagascar,2013,L
+Madagascar,2014,L
+Madagascar,2015,L
+Madagascar,2016,L
+Madagascar,2017,L
+Malawi,2000,L
+Malawi,2001,L
+Malawi,2002,L
+Malawi,2003,L
+Malawi,2004,L
+Malawi,2005,L
+Malawi,2006,L
+Malawi,2007,L
+Malawi,2008,L
+Malawi,2009,L
+Malawi,2010,L
+Malawi,2011,L
+Malawi,2012,L
+Malawi,2013,L
+Malawi,2014,L
+Malawi,2015,L
+Malawi,2016,L
+Malawi,2017,L
+Malaysia,2000,UM
+Malaysia,2001,UM
+Malaysia,2002,UM
+Malaysia,2003,UM
+Malaysia,2004,UM
+Malaysia,2005,UM
+Malaysia,2006,UM
+Malaysia,2007,UM
+Malaysia,2008,UM
+Malaysia,2009,UM
+Malaysia,2010,UM
+Malaysia,2011,UM
+Malaysia,2012,UM
+Malaysia,2013,UM
+Malaysia,2014,UM
+Malaysia,2015,UM
+Malaysia,2016,UM
+Malaysia,2017,UM
+Maldives,2000,LM
+Maldives,2001,LM
+Maldives,2002,LM
+Maldives,2003,LM
+Maldives,2004,LM
+Maldives,2005,LM
+Maldives,2006,LM
+Maldives,2007,LM
+Maldives,2008,LM
+Maldives,2009,LM
+Maldives,2010,UM
+Maldives,2011,UM
+Maldives,2012,UM
+Maldives,2013,UM
+Maldives,2014,UM
+Maldives,2015,UM
+Maldives,2016,UM
+Maldives,2017,UM
+Mali,2000,L
+Mali,2001,L
+Mali,2002,L
+Mali,2003,L
+Mali,2004,L
+Mali,2005,L
+Mali,2006,L
+Mali,2007,L
+Mali,2008,L
+Mali,2009,L
+Mali,2010,L
+Mali,2011,L
+Mali,2012,L
+Mali,2013,L
+Mali,2014,L
+Mali,2015,L
+Mali,2016,L
+Mali,2017,L
+Malta,2000,H
+Malta,2001,UM
+Malta,2002,H
+Malta,2003,H
+Malta,2004,H
+Malta,2005,H
+Malta,2006,H
+Malta,2007,H
+Malta,2008,H
+Malta,2009,H
+Malta,2010,H
+Malta,2011,H
+Malta,2012,H
+Malta,2013,H
+Malta,2014,H
+Malta,2015,H
+Malta,2016,H
+Malta,2017,H
+Marshall Islands,2000,LM
+Marshall Islands,2001,LM
+Marshall Islands,2002,LM
+Marshall Islands,2003,LM
+Marshall Islands,2004,LM
+Marshall Islands,2005,LM
+Marshall Islands,2006,LM
+Marshall Islands,2007,LM
+Marshall Islands,2008,LM
+Marshall Islands,2009,LM
+Marshall Islands,2010,LM
+Marshall Islands,2011,LM
+Marshall Islands,2012,UM
+Marshall Islands,2013,UM
+Marshall Islands,2014,UM
+Marshall Islands,2015,UM
+Marshall Islands,2016,UM
+Marshall Islands,2017,UM
+Mauritania,2000,L
+Mauritania,2001,L
+Mauritania,2002,L
+Mauritania,2003,L
+Mauritania,2004,L
+Mauritania,2005,L
+Mauritania,2006,L
+Mauritania,2007,L
+Mauritania,2008,L
+Mauritania,2009,L
+Mauritania,2010,LM
+Mauritania,2011,L
+Mauritania,2012,LM
+Mauritania,2013,LM
+Mauritania,2014,LM
+Mauritania,2015,LM
+Mauritania,2016,LM
+Mauritania,2017,LM
+Mauritius,2000,UM
+Mauritius,2001,UM
+Mauritius,2002,UM
+Mauritius,2003,UM
+Mauritius,2004,UM
+Mauritius,2005,UM
+Mauritius,2006,UM
+Mauritius,2007,UM
+Mauritius,2008,UM
+Mauritius,2009,UM
+Mauritius,2010,UM
+Mauritius,2011,UM
+Mauritius,2012,UM
+Mauritius,2013,UM
+Mauritius,2014,UM
+Mauritius,2015,UM
+Mauritius,2016,UM
+Mauritius,2017,UM
+Mexico,2000,UM
+Mexico,2001,UM
+Mexico,2002,UM
+Mexico,2003,UM
+Mexico,2004,UM
+Mexico,2005,UM
+Mexico,2006,UM
+Mexico,2007,UM
+Mexico,2008,UM
+Mexico,2009,UM
+Mexico,2010,UM
+Mexico,2011,UM
+Mexico,2012,UM
+Mexico,2013,UM
+Mexico,2014,UM
+Mexico,2015,UM
+Mexico,2016,UM
+Mexico,2017,UM
+"Micronesia, Fed. Sts.",2000,LM
+"Micronesia, Fed. Sts.",2001,LM
+"Micronesia, Fed. Sts.",2002,LM
+"Micronesia, Fed. Sts.",2003,LM
+"Micronesia, Fed. Sts.",2004,LM
+"Micronesia, Fed. Sts.",2005,LM
+"Micronesia, Fed. Sts.",2006,LM
+"Micronesia, Fed. Sts.",2007,LM
+"Micronesia, Fed. Sts.",2008,LM
+"Micronesia, Fed. Sts.",2009,LM
+"Micronesia, Fed. Sts.",2010,LM
+"Micronesia, Fed. Sts.",2011,LM
+"Micronesia, Fed. Sts.",2012,LM
+"Micronesia, Fed. Sts.",2013,LM
+"Micronesia, Fed. Sts.",2014,LM
+"Micronesia, Fed. Sts.",2015,LM
+"Micronesia, Fed. Sts.",2016,LM
+"Micronesia, Fed. Sts.",2017,LM
+Moldova,2000,L
+Moldova,2001,L
+Moldova,2002,L
+Moldova,2003,L
+Moldova,2004,L
+Moldova,2005,LM
+Moldova,2006,LM
+Moldova,2007,LM
+Moldova,2008,LM
+Moldova,2009,LM
+Moldova,2010,LM
+Moldova,2011,LM
+Moldova,2012,LM
+Moldova,2013,LM
+Moldova,2014,LM
+Moldova,2015,LM
+Moldova,2016,LM
+Moldova,2017,LM
+Monaco,2000,H
+Monaco,2001,H
+Monaco,2002,H
+Monaco,2003,H
+Monaco,2004,H
+Monaco,2005,H
+Monaco,2006,H
+Monaco,2007,H
+Monaco,2008,H
+Monaco,2009,H
+Monaco,2010,H
+Monaco,2011,H
+Monaco,2012,H
+Monaco,2013,H
+Monaco,2014,H
+Monaco,2015,H
+Monaco,2016,H
+Monaco,2017,H
+Mongolia,2000,L
+Mongolia,2001,L
+Mongolia,2002,L
+Mongolia,2003,L
+Mongolia,2004,L
+Mongolia,2005,L
+Mongolia,2006,L
+Mongolia,2007,LM
+Mongolia,2008,LM
+Mongolia,2009,LM
+Mongolia,2010,LM
+Mongolia,2011,LM
+Mongolia,2012,LM
+Mongolia,2013,LM
+Mongolia,2014,UM
+Mongolia,2015,LM
+Mongolia,2016,LM
+Mongolia,2017,LM
+Montenegro,2000,Unknown
+Montenegro,2001,Unknown
+Montenegro,2002,Unknown
+Montenegro,2003,Unknown
+Montenegro,2004,Unknown
+Montenegro,2005,Unknown
+Montenegro,2006,UM
+Montenegro,2007,UM
+Montenegro,2008,UM
+Montenegro,2009,UM
+Montenegro,2010,UM
+Montenegro,2011,UM
+Montenegro,2012,UM
+Montenegro,2013,UM
+Montenegro,2014,UM
+Montenegro,2015,UM
+Montenegro,2016,UM
+Montenegro,2017,UM
+Morocco,2000,LM
+Morocco,2001,LM
+Morocco,2002,LM
+Morocco,2003,LM
+Morocco,2004,LM
+Morocco,2005,LM
+Morocco,2006,LM
+Morocco,2007,LM
+Morocco,2008,LM
+Morocco,2009,LM
+Morocco,2010,LM
+Morocco,2011,LM
+Morocco,2012,LM
+Morocco,2013,LM
+Morocco,2014,LM
+Morocco,2015,LM
+Morocco,2016,LM
+Morocco,2017,LM
+Mozambique,2000,L
+Mozambique,2001,L
+Mozambique,2002,L
+Mozambique,2003,L
+Mozambique,2004,L
+Mozambique,2005,L
+Mozambique,2006,L
+Mozambique,2007,L
+Mozambique,2008,L
+Mozambique,2009,L
+Mozambique,2010,L
+Mozambique,2011,L
+Mozambique,2012,L
+Mozambique,2013,L
+Mozambique,2014,L
+Mozambique,2015,L
+Mozambique,2016,L
+Mozambique,2017,L
+Myanmar,2000,L
+Myanmar,2001,L
+Myanmar,2002,L
+Myanmar,2003,L
+Myanmar,2004,L
+Myanmar,2005,L
+Myanmar,2006,L
+Myanmar,2007,L
+Myanmar,2008,L
+Myanmar,2009,L
+Myanmar,2010,L
+Myanmar,2011,L
+Myanmar,2012,L
+Myanmar,2013,L
+Myanmar,2014,LM
+Myanmar,2015,LM
+Myanmar,2016,LM
+Myanmar,2017,LM
+Namibia,2000,LM
+Namibia,2001,LM
+Namibia,2002,LM
+Namibia,2003,LM
+Namibia,2004,LM
+Namibia,2005,LM
+Namibia,2006,LM
+Namibia,2007,LM
+Namibia,2008,UM
+Namibia,2009,UM
+Namibia,2010,UM
+Namibia,2011,UM
+Namibia,2012,UM
+Namibia,2013,UM
+Namibia,2014,UM
+Namibia,2015,UM
+Namibia,2016,UM
+Namibia,2017,UM
+Nauru,2000,Unknown
+Nauru,2001,Unknown
+Nauru,2002,Unknown
+Nauru,2003,Unknown
+Nauru,2004,Unknown
+Nauru,2005,Unknown
+Nauru,2006,Unknown
+Nauru,2007,Unknown
+Nauru,2008,Unknown
+Nauru,2009,Unknown
+Nauru,2010,Unknown
+Nauru,2011,Unknown
+Nauru,2012,Unknown
+Nauru,2013,Unknown
+Nauru,2014,Unknown
+Nauru,2015,H
+Nauru,2016,UM
+Nauru,2017,UM
+Nepal,2000,L
+Nepal,2001,L
+Nepal,2002,L
+Nepal,2003,L
+Nepal,2004,L
+Nepal,2005,L
+Nepal,2006,L
+Nepal,2007,L
+Nepal,2008,L
+Nepal,2009,L
+Nepal,2010,L
+Nepal,2011,L
+Nepal,2012,L
+Nepal,2013,L
+Nepal,2014,L
+Nepal,2015,L
+Nepal,2016,L
+Nepal,2017,L
+Netherlands,2000,H
+Netherlands,2001,H
+Netherlands,2002,H
+Netherlands,2003,H
+Netherlands,2004,H
+Netherlands,2005,H
+Netherlands,2006,H
+Netherlands,2007,H
+Netherlands,2008,H
+Netherlands,2009,H
+Netherlands,2010,H
+Netherlands,2011,H
+Netherlands,2012,H
+Netherlands,2013,H
+Netherlands,2014,H
+Netherlands,2015,H
+Netherlands,2016,H
+Netherlands,2017,H
+New Caledonia,2000,H
+New Caledonia,2001,H
+New Caledonia,2002,H
+New Caledonia,2003,H
+New Caledonia,2004,H
+New Caledonia,2005,H
+New Caledonia,2006,H
+New Caledonia,2007,H
+New Caledonia,2008,H
+New Caledonia,2009,H
+New Caledonia,2010,H
+New Caledonia,2011,H
+New Caledonia,2012,H
+New Caledonia,2013,H
+New Caledonia,2014,H
+New Caledonia,2015,H
+New Caledonia,2016,H
+New Caledonia,2017,H
+New Zealand,2000,H
+New Zealand,2001,H
+New Zealand,2002,H
+New Zealand,2003,H
+New Zealand,2004,H
+New Zealand,2005,H
+New Zealand,2006,H
+New Zealand,2007,H
+New Zealand,2008,H
+New Zealand,2009,H
+New Zealand,2010,H
+New Zealand,2011,H
+New Zealand,2012,H
+New Zealand,2013,H
+New Zealand,2014,H
+New Zealand,2015,H
+New Zealand,2016,H
+New Zealand,2017,H
+Nicaragua,2000,L
+Nicaragua,2001,L
+Nicaragua,2002,L
+Nicaragua,2003,L
+Nicaragua,2004,L
+Nicaragua,2005,LM
+Nicaragua,2006,LM
+Nicaragua,2007,LM
+Nicaragua,2008,LM
+Nicaragua,2009,LM
+Nicaragua,2010,LM
+Nicaragua,2011,LM
+Nicaragua,2012,LM
+Nicaragua,2013,LM
+Nicaragua,2014,LM
+Nicaragua,2015,LM
+Nicaragua,2016,LM
+Nicaragua,2017,LM
+Niger,2000,L
+Niger,2001,L
+Niger,2002,L
+Niger,2003,L
+Niger,2004,L
+Niger,2005,L
+Niger,2006,L
+Niger,2007,L
+Niger,2008,L
+Niger,2009,L
+Niger,2010,L
+Niger,2011,L
+Niger,2012,L
+Niger,2013,L
+Niger,2014,L
+Niger,2015,L
+Niger,2016,L
+Niger,2017,L
+Nigeria,2000,L
+Nigeria,2001,L
+Nigeria,2002,L
+Nigeria,2003,L
+Nigeria,2004,L
+Nigeria,2005,L
+Nigeria,2006,L
+Nigeria,2007,L
+Nigeria,2008,LM
+Nigeria,2009,LM
+Nigeria,2010,LM
+Nigeria,2011,LM
+Nigeria,2012,LM
+Nigeria,2013,LM
+Nigeria,2014,LM
+Nigeria,2015,LM
+Nigeria,2016,LM
+Nigeria,2017,LM
+Northern Mariana Islands,2000,H
+Northern Mariana Islands,2001,H
+Northern Mariana Islands,2002,UM
+Northern Mariana Islands,2003,UM
+Northern Mariana Islands,2004,UM
+Northern Mariana Islands,2005,UM
+Northern Mariana Islands,2006,UM
+Northern Mariana Islands,2007,H
+Northern Mariana Islands,2008,H
+Northern Mariana Islands,2009,H
+Northern Mariana Islands,2010,H
+Northern Mariana Islands,2011,H
+Northern Mariana Islands,2012,H
+Northern Mariana Islands,2013,H
+Northern Mariana Islands,2014,H
+Northern Mariana Islands,2015,H
+Northern Mariana Islands,2016,H
+Northern Mariana Islands,2017,H
+Norway,2000,H
+Norway,2001,H
+Norway,2002,H
+Norway,2003,H
+Norway,2004,H
+Norway,2005,H
+Norway,2006,H
+Norway,2007,H
+Norway,2008,H
+Norway,2009,H
+Norway,2010,H
+Norway,2011,H
+Norway,2012,H
+Norway,2013,H
+Norway,2014,H
+Norway,2015,H
+Norway,2016,H
+Norway,2017,H
+Oman,2000,UM
+Oman,2001,UM
+Oman,2002,UM
+Oman,2003,UM
+Oman,2004,UM
+Oman,2005,UM
+Oman,2006,UM
+Oman,2007,H
+Oman,2008,H
+Oman,2009,H
+Oman,2010,H
+Oman,2011,H
+Oman,2012,H
+Oman,2013,H
+Oman,2014,H
+Oman,2015,H
+Oman,2016,H
+Oman,2017,H
+Pakistan,2000,L
+Pakistan,2001,L
+Pakistan,2002,L
+Pakistan,2003,L
+Pakistan,2004,L
+Pakistan,2005,L
+Pakistan,2006,L
+Pakistan,2007,L
+Pakistan,2008,LM
+Pakistan,2009,LM
+Pakistan,2010,LM
+Pakistan,2011,LM
+Pakistan,2012,LM
+Pakistan,2013,LM
+Pakistan,2014,LM
+Pakistan,2015,LM
+Pakistan,2016,LM
+Pakistan,2017,LM
+Palau,2000,UM
+Palau,2001,UM
+Palau,2002,UM
+Palau,2003,UM
+Palau,2004,UM
+Palau,2005,UM
+Palau,2006,UM
+Palau,2007,UM
+Palau,2008,UM
+Palau,2009,UM
+Palau,2010,UM
+Palau,2011,UM
+Palau,2012,UM
+Palau,2013,UM
+Palau,2014,UM
+Palau,2015,UM
+Palau,2016,H
+Palau,2017,H
+Panama,2000,UM
+Panama,2001,UM
+Panama,2002,UM
+Panama,2003,UM
+Panama,2004,UM
+Panama,2005,UM
+Panama,2006,UM
+Panama,2007,UM
+Panama,2008,UM
+Panama,2009,UM
+Panama,2010,UM
+Panama,2011,UM
+Panama,2012,UM
+Panama,2013,UM
+Panama,2014,UM
+Panama,2015,UM
+Panama,2016,UM
+Panama,2017,H
+Papua New Guinea,2000,LM
+Papua New Guinea,2001,L
+Papua New Guinea,2002,L
+Papua New Guinea,2003,L
+Papua New Guinea,2004,L
+Papua New Guinea,2005,L
+Papua New Guinea,2006,L
+Papua New Guinea,2007,L
+Papua New Guinea,2008,LM
+Papua New Guinea,2009,LM
+Papua New Guinea,2010,LM
+Papua New Guinea,2011,LM
+Papua New Guinea,2012,LM
+Papua New Guinea,2013,LM
+Papua New Guinea,2014,LM
+Papua New Guinea,2015,LM
+Papua New Guinea,2016,LM
+Papua New Guinea,2017,LM
+Paraguay,2000,LM
+Paraguay,2001,LM
+Paraguay,2002,LM
+Paraguay,2003,LM
+Paraguay,2004,LM
+Paraguay,2005,LM
+Paraguay,2006,LM
+Paraguay,2007,LM
+Paraguay,2008,LM
+Paraguay,2009,LM
+Paraguay,2010,LM
+Paraguay,2011,LM
+Paraguay,2012,LM
+Paraguay,2013,LM
+Paraguay,2014,UM
+Paraguay,2015,UM
+Paraguay,2016,UM
+Paraguay,2017,UM
+Peru,2000,LM
+Peru,2001,LM
+Peru,2002,LM
+Peru,2003,LM
+Peru,2004,LM
+Peru,2005,LM
+Peru,2006,LM
+Peru,2007,LM
+Peru,2008,UM
+Peru,2009,UM
+Peru,2010,UM
+Peru,2011,UM
+Peru,2012,UM
+Peru,2013,UM
+Peru,2014,UM
+Peru,2015,UM
+Peru,2016,UM
+Peru,2017,UM
+Philippines,2000,LM
+Philippines,2001,LM
+Philippines,2002,LM
+Philippines,2003,LM
+Philippines,2004,LM
+Philippines,2005,LM
+Philippines,2006,LM
+Philippines,2007,LM
+Philippines,2008,LM
+Philippines,2009,LM
+Philippines,2010,LM
+Philippines,2011,LM
+Philippines,2012,LM
+Philippines,2013,LM
+Philippines,2014,LM
+Philippines,2015,LM
+Philippines,2016,LM
+Philippines,2017,LM
+Poland,2000,UM
+Poland,2001,UM
+Poland,2002,UM
+Poland,2003,UM
+Poland,2004,UM
+Poland,2005,UM
+Poland,2006,UM
+Poland,2007,UM
+Poland,2008,UM
+Poland,2009,H
+Poland,2010,H
+Poland,2011,H
+Poland,2012,H
+Poland,2013,H
+Poland,2014,H
+Poland,2015,H
+Poland,2016,H
+Poland,2017,H
+Portugal,2000,H
+Portugal,2001,H
+Portugal,2002,H
+Portugal,2003,H
+Portugal,2004,H
+Portugal,2005,H
+Portugal,2006,H
+Portugal,2007,H
+Portugal,2008,H
+Portugal,2009,H
+Portugal,2010,H
+Portugal,2011,H
+Portugal,2012,H
+Portugal,2013,H
+Portugal,2014,H
+Portugal,2015,H
+Portugal,2016,H
+Portugal,2017,H
+Puerto Rico,2000,UM
+Puerto Rico,2001,UM
+Puerto Rico,2002,H
+Puerto Rico,2003,H
+Puerto Rico,2004,H
+Puerto Rico,2005,H
+Puerto Rico,2006,H
+Puerto Rico,2007,H
+Puerto Rico,2008,H
+Puerto Rico,2009,H
+Puerto Rico,2010,H
+Puerto Rico,2011,H
+Puerto Rico,2012,H
+Puerto Rico,2013,H
+Puerto Rico,2014,H
+Puerto Rico,2015,H
+Puerto Rico,2016,H
+Puerto Rico,2017,H
+Qatar,2000,H
+Qatar,2001,H
+Qatar,2002,H
+Qatar,2003,H
+Qatar,2004,H
+Qatar,2005,H
+Qatar,2006,H
+Qatar,2007,H
+Qatar,2008,H
+Qatar,2009,H
+Qatar,2010,H
+Qatar,2011,H
+Qatar,2012,H
+Qatar,2013,H
+Qatar,2014,H
+Qatar,2015,H
+Qatar,2016,H
+Qatar,2017,H
+Romania,2000,LM
+Romania,2001,LM
+Romania,2002,LM
+Romania,2003,LM
+Romania,2004,LM
+Romania,2005,UM
+Romania,2006,UM
+Romania,2007,UM
+Romania,2008,UM
+Romania,2009,UM
+Romania,2010,UM
+Romania,2011,UM
+Romania,2012,UM
+Romania,2013,UM
+Romania,2014,UM
+Romania,2015,UM
+Romania,2016,UM
+Romania,2017,UM
+Russian Federation,2000,LM
+Russian Federation,2001,LM
+Russian Federation,2002,LM
+Russian Federation,2003,LM
+Russian Federation,2004,UM
+Russian Federation,2005,UM
+Russian Federation,2006,UM
+Russian Federation,2007,UM
+Russian Federation,2008,UM
+Russian Federation,2009,UM
+Russian Federation,2010,UM
+Russian Federation,2011,UM
+Russian Federation,2012,H
+Russian Federation,2013,H
+Russian Federation,2014,H
+Russian Federation,2015,UM
+Russian Federation,2016,UM
+Russian Federation,2017,UM
+Rwanda,2000,L
+Rwanda,2001,L
+Rwanda,2002,L
+Rwanda,2003,L
+Rwanda,2004,L
+Rwanda,2005,L
+Rwanda,2006,L
+Rwanda,2007,L
+Rwanda,2008,L
+Rwanda,2009,L
+Rwanda,2010,L
+Rwanda,2011,L
+Rwanda,2012,L
+Rwanda,2013,L
+Rwanda,2014,L
+Rwanda,2015,L
+Rwanda,2016,L
+Rwanda,2017,L
+Samoa,2000,LM
+Samoa,2001,LM
+Samoa,2002,LM
+Samoa,2003,LM
+Samoa,2004,LM
+Samoa,2005,LM
+Samoa,2006,LM
+Samoa,2007,LM
+Samoa,2008,LM
+Samoa,2009,LM
+Samoa,2010,LM
+Samoa,2011,LM
+Samoa,2012,LM
+Samoa,2013,LM
+Samoa,2014,LM
+Samoa,2015,LM
+Samoa,2016,UM
+Samoa,2017,UM
+San Marino,2000,H
+San Marino,2001,H
+San Marino,2002,H
+San Marino,2003,H
+San Marino,2004,H
+San Marino,2005,H
+San Marino,2006,H
+San Marino,2007,H
+San Marino,2008,H
+San Marino,2009,H
+San Marino,2010,H
+San Marino,2011,H
+San Marino,2012,H
+San Marino,2013,H
+San Marino,2014,H
+San Marino,2015,H
+San Marino,2016,H
+San Marino,2017,H
+São Tomé and Principe,2000,L
+São Tomé and Principe,2001,L
+São Tomé and Principe,2002,L
+São Tomé and Principe,2003,L
+São Tomé and Principe,2004,L
+São Tomé and Principe,2005,L
+São Tomé and Principe,2006,L
+São Tomé and Principe,2007,L
+São Tomé and Principe,2008,LM
+São Tomé and Principe,2009,LM
+São Tomé and Principe,2010,LM
+São Tomé and Principe,2011,LM
+São Tomé and Principe,2012,LM
+São Tomé and Principe,2013,LM
+São Tomé and Principe,2014,LM
+São Tomé and Principe,2015,LM
+São Tomé and Principe,2016,LM
+São Tomé and Principe,2017,LM
+Saudi Arabia,2000,UM
+Saudi Arabia,2001,UM
+Saudi Arabia,2002,UM
+Saudi Arabia,2003,UM
+Saudi Arabia,2004,H
+Saudi Arabia,2005,H
+Saudi Arabia,2006,H
+Saudi Arabia,2007,H
+Saudi Arabia,2008,H
+Saudi Arabia,2009,H
+Saudi Arabia,2010,H
+Saudi Arabia,2011,H
+Saudi Arabia,2012,H
+Saudi Arabia,2013,H
+Saudi Arabia,2014,H
+Saudi Arabia,2015,H
+Saudi Arabia,2016,H
+Saudi Arabia,2017,H
+Senegal,2000,L
+Senegal,2001,L
+Senegal,2002,L
+Senegal,2003,L
+Senegal,2004,L
+Senegal,2005,L
+Senegal,2006,L
+Senegal,2007,L
+Senegal,2008,L
+Senegal,2009,LM
+Senegal,2010,LM
+Senegal,2011,LM
+Senegal,2012,LM
+Senegal,2013,LM
+Senegal,2014,LM
+Senegal,2015,L
+Senegal,2016,L
+Senegal,2017,L
+Serbia,2000,Unknown
+Serbia,2001,Unknown
+Serbia,2002,Unknown
+Serbia,2003,Unknown
+Serbia,2004,Unknown
+Serbia,2005,Unknown
+Serbia,2006,UM
+Serbia,2007,UM
+Serbia,2008,UM
+Serbia,2009,UM
+Serbia,2010,UM
+Serbia,2011,UM
+Serbia,2012,UM
+Serbia,2013,UM
+Serbia,2014,UM
+Serbia,2015,UM
+Serbia,2016,UM
+Serbia,2017,UM
+Seychelles,2000,UM
+Seychelles,2001,UM
+Seychelles,2002,UM
+Seychelles,2003,UM
+Seychelles,2004,UM
+Seychelles,2005,UM
+Seychelles,2006,UM
+Seychelles,2007,UM
+Seychelles,2008,UM
+Seychelles,2009,UM
+Seychelles,2010,UM
+Seychelles,2011,UM
+Seychelles,2012,UM
+Seychelles,2013,UM
+Seychelles,2014,H
+Seychelles,2015,H
+Seychelles,2016,H
+Seychelles,2017,H
+Sierra Leone,2000,L
+Sierra Leone,2001,L
+Sierra Leone,2002,L
+Sierra Leone,2003,L
+Sierra Leone,2004,L
+Sierra Leone,2005,L
+Sierra Leone,2006,L
+Sierra Leone,2007,L
+Sierra Leone,2008,L
+Sierra Leone,2009,L
+Sierra Leone,2010,L
+Sierra Leone,2011,L
+Sierra Leone,2012,L
+Sierra Leone,2013,L
+Sierra Leone,2014,L
+Sierra Leone,2015,L
+Sierra Leone,2016,L
+Sierra Leone,2017,L
+Singapore,2000,H
+Singapore,2001,H
+Singapore,2002,H
+Singapore,2003,H
+Singapore,2004,H
+Singapore,2005,H
+Singapore,2006,H
+Singapore,2007,H
+Singapore,2008,H
+Singapore,2009,H
+Singapore,2010,H
+Singapore,2011,H
+Singapore,2012,H
+Singapore,2013,H
+Singapore,2014,H
+Singapore,2015,H
+Singapore,2016,H
+Singapore,2017,H
+Sint Maarten (Dutch part),2000,Unknown
+Sint Maarten (Dutch part),2001,Unknown
+Sint Maarten (Dutch part),2002,Unknown
+Sint Maarten (Dutch part),2003,Unknown
+Sint Maarten (Dutch part),2004,Unknown
+Sint Maarten (Dutch part),2005,Unknown
+Sint Maarten (Dutch part),2006,Unknown
+Sint Maarten (Dutch part),2007,Unknown
+Sint Maarten (Dutch part),2008,Unknown
+Sint Maarten (Dutch part),2009,Unknown
+Sint Maarten (Dutch part),2010,H
+Sint Maarten (Dutch part),2011,H
+Sint Maarten (Dutch part),2012,H
+Sint Maarten (Dutch part),2013,H
+Sint Maarten (Dutch part),2014,H
+Sint Maarten (Dutch part),2015,H
+Sint Maarten (Dutch part),2016,H
+Sint Maarten (Dutch part),2017,H
+Slovak Republic,2000,UM
+Slovak Republic,2001,UM
+Slovak Republic,2002,UM
+Slovak Republic,2003,UM
+Slovak Republic,2004,UM
+Slovak Republic,2005,UM
+Slovak Republic,2006,UM
+Slovak Republic,2007,H
+Slovak Republic,2008,H
+Slovak Republic,2009,H
+Slovak Republic,2010,H
+Slovak Republic,2011,H
+Slovak Republic,2012,H
+Slovak Republic,2013,H
+Slovak Republic,2014,H
+Slovak Republic,2015,H
+Slovak Republic,2016,H
+Slovak Republic,2017,H
+Slovenia,2000,H
+Slovenia,2001,H
+Slovenia,2002,H
+Slovenia,2003,H
+Slovenia,2004,H
+Slovenia,2005,H
+Slovenia,2006,H
+Slovenia,2007,H
+Slovenia,2008,H
+Slovenia,2009,H
+Slovenia,2010,H
+Slovenia,2011,H
+Slovenia,2012,H
+Slovenia,2013,H
+Slovenia,2014,H
+Slovenia,2015,H
+Slovenia,2016,H
+Slovenia,2017,H
+Solomon Islands,2000,L
+Solomon Islands,2001,L
+Solomon Islands,2002,L
+Solomon Islands,2003,L
+Solomon Islands,2004,L
+Solomon Islands,2005,L
+Solomon Islands,2006,L
+Solomon Islands,2007,L
+Solomon Islands,2008,LM
+Solomon Islands,2009,L
+Solomon Islands,2010,LM
+Solomon Islands,2011,LM
+Solomon Islands,2012,LM
+Solomon Islands,2013,LM
+Solomon Islands,2014,LM
+Solomon Islands,2015,LM
+Solomon Islands,2016,LM
+Solomon Islands,2017,LM
+Somalia,2000,L
+Somalia,2001,L
+Somalia,2002,L
+Somalia,2003,L
+Somalia,2004,L
+Somalia,2005,L
+Somalia,2006,L
+Somalia,2007,L
+Somalia,2008,L
+Somalia,2009,L
+Somalia,2010,L
+Somalia,2011,L
+Somalia,2012,L
+Somalia,2013,L
+Somalia,2014,L
+Somalia,2015,L
+Somalia,2016,L
+Somalia,2017,L
+South Africa,2000,UM
+South Africa,2001,LM
+South Africa,2002,LM
+South Africa,2003,LM
+South Africa,2004,UM
+South Africa,2005,UM
+South Africa,2006,UM
+South Africa,2007,UM
+South Africa,2008,UM
+South Africa,2009,UM
+South Africa,2010,UM
+South Africa,2011,UM
+South Africa,2012,UM
+South Africa,2013,UM
+South Africa,2014,UM
+South Africa,2015,UM
+South Africa,2016,UM
+South Africa,2017,UM
+South Sudan,2000,Unknown
+South Sudan,2001,Unknown
+South Sudan,2002,Unknown
+South Sudan,2003,Unknown
+South Sudan,2004,Unknown
+South Sudan,2005,Unknown
+South Sudan,2006,Unknown
+South Sudan,2007,Unknown
+South Sudan,2008,Unknown
+South Sudan,2009,Unknown
+South Sudan,2010,Unknown
+South Sudan,2011,LM
+South Sudan,2012,L
+South Sudan,2013,LM
+South Sudan,2014,L
+South Sudan,2015,L
+South Sudan,2016,L
+South Sudan,2017,L
+Spain,2000,H
+Spain,2001,H
+Spain,2002,H
+Spain,2003,H
+Spain,2004,H
+Spain,2005,H
+Spain,2006,H
+Spain,2007,H
+Spain,2008,H
+Spain,2009,H
+Spain,2010,H
+Spain,2011,H
+Spain,2012,H
+Spain,2013,H
+Spain,2014,H
+Spain,2015,H
+Spain,2016,H
+Spain,2017,H
+Sri Lanka,2000,LM
+Sri Lanka,2001,LM
+Sri Lanka,2002,LM
+Sri Lanka,2003,LM
+Sri Lanka,2004,LM
+Sri Lanka,2005,LM
+Sri Lanka,2006,LM
+Sri Lanka,2007,LM
+Sri Lanka,2008,LM
+Sri Lanka,2009,LM
+Sri Lanka,2010,LM
+Sri Lanka,2011,LM
+Sri Lanka,2012,LM
+Sri Lanka,2013,LM
+Sri Lanka,2014,LM
+Sri Lanka,2015,LM
+Sri Lanka,2016,LM
+Sri Lanka,2017,LM
+St. Kitts and Nevis,2000,UM
+St. Kitts and Nevis,2001,UM
+St. Kitts and Nevis,2002,UM
+St. Kitts and Nevis,2003,UM
+St. Kitts and Nevis,2004,UM
+St. Kitts and Nevis,2005,UM
+St. Kitts and Nevis,2006,UM
+St. Kitts and Nevis,2007,UM
+St. Kitts and Nevis,2008,UM
+St. Kitts and Nevis,2009,UM
+St. Kitts and Nevis,2010,UM
+St. Kitts and Nevis,2011,H
+St. Kitts and Nevis,2012,H
+St. Kitts and Nevis,2013,H
+St. Kitts and Nevis,2014,H
+St. Kitts and Nevis,2015,H
+St. Kitts and Nevis,2016,H
+St. Kitts and Nevis,2017,H
+St. Lucia,2000,UM
+St. Lucia,2001,UM
+St. Lucia,2002,UM
+St. Lucia,2003,UM
+St. Lucia,2004,UM
+St. Lucia,2005,UM
+St. Lucia,2006,UM
+St. Lucia,2007,UM
+St. Lucia,2008,UM
+St. Lucia,2009,UM
+St. Lucia,2010,UM
+St. Lucia,2011,UM
+St. Lucia,2012,UM
+St. Lucia,2013,UM
+St. Lucia,2014,UM
+St. Lucia,2015,UM
+St. Lucia,2016,UM
+St. Lucia,2017,UM
+St. Martin (French part),2000,Unknown
+St. Martin (French part),2001,Unknown
+St. Martin (French part),2002,Unknown
+St. Martin (French part),2003,Unknown
+St. Martin (French part),2004,Unknown
+St. Martin (French part),2005,Unknown
+St. Martin (French part),2006,Unknown
+St. Martin (French part),2007,Unknown
+St. Martin (French part),2008,Unknown
+St. Martin (French part),2009,Unknown
+St. Martin (French part),2010,H
+St. Martin (French part),2011,H
+St. Martin (French part),2012,H
+St. Martin (French part),2013,H
+St. Martin (French part),2014,H
+St. Martin (French part),2015,H
+St. Martin (French part),2016,H
+St. Martin (French part),2017,H
+St. Vincent and the Grenadines,2000,LM
+St. Vincent and the Grenadines,2001,LM
+St. Vincent and the Grenadines,2002,LM
+St. Vincent and the Grenadines,2003,UM
+St. Vincent and the Grenadines,2004,UM
+St. Vincent and the Grenadines,2005,UM
+St. Vincent and the Grenadines,2006,UM
+St. Vincent and the Grenadines,2007,UM
+St. Vincent and the Grenadines,2008,UM
+St. Vincent and the Grenadines,2009,UM
+St. Vincent and the Grenadines,2010,UM
+St. Vincent and the Grenadines,2011,UM
+St. Vincent and the Grenadines,2012,UM
+St. Vincent and the Grenadines,2013,UM
+St. Vincent and the Grenadines,2014,UM
+St. Vincent and the Grenadines,2015,UM
+St. Vincent and the Grenadines,2016,UM
+St. Vincent and the Grenadines,2017,UM
+Sudan,2000,L
+Sudan,2001,L
+Sudan,2002,L
+Sudan,2003,L
+Sudan,2004,L
+Sudan,2005,L
+Sudan,2006,L
+Sudan,2007,LM
+Sudan,2008,LM
+Sudan,2009,LM
+Sudan,2010,LM
+Sudan,2011,LM
+Sudan,2012,LM
+Sudan,2013,LM
+Sudan,2014,LM
+Sudan,2015,LM
+Sudan,2016,LM
+Sudan,2017,LM
+Suriname,2000,LM
+Suriname,2001,LM
+Suriname,2002,LM
+Suriname,2003,LM
+Suriname,2004,LM
+Suriname,2005,LM
+Suriname,2006,LM
+Suriname,2007,UM
+Suriname,2008,UM
+Suriname,2009,UM
+Suriname,2010,UM
+Suriname,2011,UM
+Suriname,2012,UM
+Suriname,2013,UM
+Suriname,2014,UM
+Suriname,2015,UM
+Suriname,2016,UM
+Suriname,2017,UM
+Swaziland,2000,LM
+Swaziland,2001,LM
+Swaziland,2002,LM
+Swaziland,2003,LM
+Swaziland,2004,LM
+Swaziland,2005,LM
+Swaziland,2006,LM
+Swaziland,2007,LM
+Swaziland,2008,LM
+Swaziland,2009,LM
+Swaziland,2010,LM
+Swaziland,2011,LM
+Swaziland,2012,LM
+Swaziland,2013,LM
+Swaziland,2014,LM
+Swaziland,2015,LM
+Swaziland,2016,LM
+Swaziland,2017,LM
+Sweden,2000,H
+Sweden,2001,H
+Sweden,2002,H
+Sweden,2003,H
+Sweden,2004,H
+Sweden,2005,H
+Sweden,2006,H
+Sweden,2007,H
+Sweden,2008,H
+Sweden,2009,H
+Sweden,2010,H
+Sweden,2011,H
+Sweden,2012,H
+Sweden,2013,H
+Sweden,2014,H
+Sweden,2015,H
+Sweden,2016,H
+Sweden,2017,H
+Switzerland,2000,H
+Switzerland,2001,H
+Switzerland,2002,H
+Switzerland,2003,H
+Switzerland,2004,H
+Switzerland,2005,H
+Switzerland,2006,H
+Switzerland,2007,H
+Switzerland,2008,H
+Switzerland,2009,H
+Switzerland,2010,H
+Switzerland,2011,H
+Switzerland,2012,H
+Switzerland,2013,H
+Switzerland,2014,H
+Switzerland,2015,H
+Switzerland,2016,H
+Switzerland,2017,H
+Syrian Arab Republic,2000,LM
+Syrian Arab Republic,2001,LM
+Syrian Arab Republic,2002,LM
+Syrian Arab Republic,2003,LM
+Syrian Arab Republic,2004,LM
+Syrian Arab Republic,2005,LM
+Syrian Arab Republic,2006,LM
+Syrian Arab Republic,2007,LM
+Syrian Arab Republic,2008,LM
+Syrian Arab Republic,2009,LM
+Syrian Arab Republic,2010,LM
+Syrian Arab Republic,2011,LM
+Syrian Arab Republic,2012,LM
+Syrian Arab Republic,2013,LM
+Syrian Arab Republic,2014,LM
+Syrian Arab Republic,2015,LM
+Syrian Arab Republic,2016,LM
+Syrian Arab Republic,2017,L
+"Taiwan, China",2000,H
+"Taiwan, China",2001,H
+"Taiwan, China",2002,H
+"Taiwan, China",2003,H
+"Taiwan, China",2004,H
+"Taiwan, China",2005,H
+"Taiwan, China",2006,H
+"Taiwan, China",2007,H
+"Taiwan, China",2008,H
+"Taiwan, China",2009,H
+"Taiwan, China",2010,H
+"Taiwan, China",2011,H
+"Taiwan, China",2012,H
+"Taiwan, China",2013,H
+"Taiwan, China",2014,H
+"Taiwan, China",2015,H
+"Taiwan, China",2016,H
+"Taiwan, China",2017,H
+Tajikistan,2000,L
+Tajikistan,2001,L
+Tajikistan,2002,L
+Tajikistan,2003,L
+Tajikistan,2004,L
+Tajikistan,2005,L
+Tajikistan,2006,L
+Tajikistan,2007,L
+Tajikistan,2008,L
+Tajikistan,2009,L
+Tajikistan,2010,L
+Tajikistan,2011,L
+Tajikistan,2012,L
+Tajikistan,2013,L
+Tajikistan,2014,LM
+Tajikistan,2015,LM
+Tajikistan,2016,LM
+Tajikistan,2017,L
+Tanzania,2000,L
+Tanzania,2001,L
+Tanzania,2002,L
+Tanzania,2003,L
+Tanzania,2004,L
+Tanzania,2005,L
+Tanzania,2006,L
+Tanzania,2007,L
+Tanzania,2008,L
+Tanzania,2009,L
+Tanzania,2010,L
+Tanzania,2011,L
+Tanzania,2012,L
+Tanzania,2013,L
+Tanzania,2014,L
+Tanzania,2015,L
+Tanzania,2016,L
+Tanzania,2017,L
+Thailand,2000,LM
+Thailand,2001,LM
+Thailand,2002,LM
+Thailand,2003,LM
+Thailand,2004,LM
+Thailand,2005,LM
+Thailand,2006,LM
+Thailand,2007,LM
+Thailand,2008,LM
+Thailand,2009,LM
+Thailand,2010,UM
+Thailand,2011,UM
+Thailand,2012,UM
+Thailand,2013,UM
+Thailand,2014,UM
+Thailand,2015,UM
+Thailand,2016,UM
+Thailand,2017,UM
+Timor-Leste,2000,Unknown
+Timor-Leste,2001,L
+Timor-Leste,2002,L
+Timor-Leste,2003,L
+Timor-Leste,2004,L
+Timor-Leste,2005,L
+Timor-Leste,2006,L
+Timor-Leste,2007,LM
+Timor-Leste,2008,LM
+Timor-Leste,2009,LM
+Timor-Leste,2010,LM
+Timor-Leste,2011,LM
+Timor-Leste,2012,LM
+Timor-Leste,2013,LM
+Timor-Leste,2014,LM
+Timor-Leste,2015,LM
+Timor-Leste,2016,LM
+Timor-Leste,2017,LM
+Togo,2000,L
+Togo,2001,L
+Togo,2002,L
+Togo,2003,L
+Togo,2004,L
+Togo,2005,L
+Togo,2006,L
+Togo,2007,L
+Togo,2008,L
+Togo,2009,L
+Togo,2010,L
+Togo,2011,L
+Togo,2012,L
+Togo,2013,L
+Togo,2014,L
+Togo,2015,L
+Togo,2016,L
+Togo,2017,L
+Tonga,2000,LM
+Tonga,2001,LM
+Tonga,2002,LM
+Tonga,2003,LM
+Tonga,2004,LM
+Tonga,2005,LM
+Tonga,2006,LM
+Tonga,2007,LM
+Tonga,2008,LM
+Tonga,2009,LM
+Tonga,2010,LM
+Tonga,2011,LM
+Tonga,2012,UM
+Tonga,2013,UM
+Tonga,2014,UM
+Tonga,2015,LM
+Tonga,2016,UM
+Tonga,2017,UM
+Trinidad and Tobago,2000,UM
+Trinidad and Tobago,2001,UM
+Trinidad and Tobago,2002,UM
+Trinidad and Tobago,2003,UM
+Trinidad and Tobago,2004,UM
+Trinidad and Tobago,2005,UM
+Trinidad and Tobago,2006,H
+Trinidad and Tobago,2007,H
+Trinidad and Tobago,2008,H
+Trinidad and Tobago,2009,H
+Trinidad and Tobago,2010,H
+Trinidad and Tobago,2011,H
+Trinidad and Tobago,2012,H
+Trinidad and Tobago,2013,H
+Trinidad and Tobago,2014,H
+Trinidad and Tobago,2015,H
+Trinidad and Tobago,2016,H
+Trinidad and Tobago,2017,H
+Tunisia,2000,LM
+Tunisia,2001,LM
+Tunisia,2002,LM
+Tunisia,2003,LM
+Tunisia,2004,LM
+Tunisia,2005,LM
+Tunisia,2006,LM
+Tunisia,2007,LM
+Tunisia,2008,LM
+Tunisia,2009,LM
+Tunisia,2010,UM
+Tunisia,2011,UM
+Tunisia,2012,UM
+Tunisia,2013,UM
+Tunisia,2014,UM
+Tunisia,2015,LM
+Tunisia,2016,LM
+Tunisia,2017,LM
+Turkey,2000,UM
+Turkey,2001,LM
+Turkey,2002,LM
+Turkey,2003,LM
+Turkey,2004,UM
+Turkey,2005,UM
+Turkey,2006,UM
+Turkey,2007,UM
+Turkey,2008,UM
+Turkey,2009,UM
+Turkey,2010,UM
+Turkey,2011,UM
+Turkey,2012,UM
+Turkey,2013,UM
+Turkey,2014,UM
+Turkey,2015,UM
+Turkey,2016,UM
+Turkey,2017,UM
+Turkmenistan,2000,LM
+Turkmenistan,2001,LM
+Turkmenistan,2002,LM
+Turkmenistan,2003,LM
+Turkmenistan,2004,LM
+Turkmenistan,2005,LM
+Turkmenistan,2006,LM
+Turkmenistan,2007,LM
+Turkmenistan,2008,LM
+Turkmenistan,2009,LM
+Turkmenistan,2010,LM
+Turkmenistan,2011,UM
+Turkmenistan,2012,UM
+Turkmenistan,2013,UM
+Turkmenistan,2014,UM
+Turkmenistan,2015,UM
+Turkmenistan,2016,UM
+Turkmenistan,2017,UM
+Turks and Caicos Islands,2000,Unknown
+Turks and Caicos Islands,2001,Unknown
+Turks and Caicos Islands,2002,Unknown
+Turks and Caicos Islands,2003,Unknown
+Turks and Caicos Islands,2004,Unknown
+Turks and Caicos Islands,2005,Unknown
+Turks and Caicos Islands,2006,Unknown
+Turks and Caicos Islands,2007,Unknown
+Turks and Caicos Islands,2008,Unknown
+Turks and Caicos Islands,2009,H
+Turks and Caicos Islands,2010,H
+Turks and Caicos Islands,2011,H
+Turks and Caicos Islands,2012,H
+Turks and Caicos Islands,2013,H
+Turks and Caicos Islands,2014,H
+Turks and Caicos Islands,2015,H
+Turks and Caicos Islands,2016,H
+Turks and Caicos Islands,2017,H
+Tuvalu,2000,Unknown
+Tuvalu,2001,Unknown
+Tuvalu,2002,Unknown
+Tuvalu,2003,Unknown
+Tuvalu,2004,Unknown
+Tuvalu,2005,Unknown
+Tuvalu,2006,Unknown
+Tuvalu,2007,Unknown
+Tuvalu,2008,Unknown
+Tuvalu,2009,LM
+Tuvalu,2010,LM
+Tuvalu,2011,UM
+Tuvalu,2012,UM
+Tuvalu,2013,UM
+Tuvalu,2014,UM
+Tuvalu,2015,UM
+Tuvalu,2016,UM
+Tuvalu,2017,UM
+Uganda,2000,L
+Uganda,2001,L
+Uganda,2002,L
+Uganda,2003,L
+Uganda,2004,L
+Uganda,2005,L
+Uganda,2006,L
+Uganda,2007,L
+Uganda,2008,L
+Uganda,2009,L
+Uganda,2010,L
+Uganda,2011,L
+Uganda,2012,L
+Uganda,2013,L
+Uganda,2014,L
+Uganda,2015,L
+Uganda,2016,L
+Uganda,2017,L
+Ukraine,2000,L
+Ukraine,2001,L
+Ukraine,2002,LM
+Ukraine,2003,LM
+Ukraine,2004,LM
+Ukraine,2005,LM
+Ukraine,2006,LM
+Ukraine,2007,LM
+Ukraine,2008,LM
+Ukraine,2009,LM
+Ukraine,2010,LM
+Ukraine,2011,LM
+Ukraine,2012,LM
+Ukraine,2013,LM
+Ukraine,2014,LM
+Ukraine,2015,LM
+Ukraine,2016,LM
+Ukraine,2017,LM
+United Arab Emirates,2000,H
+United Arab Emirates,2001,H
+United Arab Emirates,2002,H
+United Arab Emirates,2003,H
+United Arab Emirates,2004,H
+United Arab Emirates,2005,H
+United Arab Emirates,2006,H
+United Arab Emirates,2007,H
+United Arab Emirates,2008,H
+United Arab Emirates,2009,H
+United Arab Emirates,2010,H
+United Arab Emirates,2011,H
+United Arab Emirates,2012,H
+United Arab Emirates,2013,H
+United Arab Emirates,2014,H
+United Arab Emirates,2015,H
+United Arab Emirates,2016,H
+United Arab Emirates,2017,H
+United Kingdom,2000,H
+United Kingdom,2001,H
+United Kingdom,2002,H
+United Kingdom,2003,H
+United Kingdom,2004,H
+United Kingdom,2005,H
+United Kingdom,2006,H
+United Kingdom,2007,H
+United Kingdom,2008,H
+United Kingdom,2009,H
+United Kingdom,2010,H
+United Kingdom,2011,H
+United Kingdom,2012,H
+United Kingdom,2013,H
+United Kingdom,2014,H
+United Kingdom,2015,H
+United Kingdom,2016,H
+United Kingdom,2017,H
+United States,2000,H
+United States,2001,H
+United States,2002,H
+United States,2003,H
+United States,2004,H
+United States,2005,H
+United States,2006,H
+United States,2007,H
+United States,2008,H
+United States,2009,H
+United States,2010,H
+United States,2011,H
+United States,2012,H
+United States,2013,H
+United States,2014,H
+United States,2015,H
+United States,2016,H
+United States,2017,H
+Uruguay,2000,UM
+Uruguay,2001,UM
+Uruguay,2002,UM
+Uruguay,2003,UM
+Uruguay,2004,UM
+Uruguay,2005,UM
+Uruguay,2006,UM
+Uruguay,2007,UM
+Uruguay,2008,UM
+Uruguay,2009,UM
+Uruguay,2010,UM
+Uruguay,2011,UM
+Uruguay,2012,H
+Uruguay,2013,H
+Uruguay,2014,H
+Uruguay,2015,H
+Uruguay,2016,H
+Uruguay,2017,H
+Uzbekistan,2000,L
+Uzbekistan,2001,L
+Uzbekistan,2002,L
+Uzbekistan,2003,L
+Uzbekistan,2004,L
+Uzbekistan,2005,L
+Uzbekistan,2006,L
+Uzbekistan,2007,L
+Uzbekistan,2008,L
+Uzbekistan,2009,LM
+Uzbekistan,2010,LM
+Uzbekistan,2011,LM
+Uzbekistan,2012,LM
+Uzbekistan,2013,LM
+Uzbekistan,2014,LM
+Uzbekistan,2015,LM
+Uzbekistan,2016,LM
+Uzbekistan,2017,LM
+Vanuatu,2000,LM
+Vanuatu,2001,LM
+Vanuatu,2002,LM
+Vanuatu,2003,LM
+Vanuatu,2004,LM
+Vanuatu,2005,LM
+Vanuatu,2006,LM
+Vanuatu,2007,LM
+Vanuatu,2008,LM
+Vanuatu,2009,LM
+Vanuatu,2010,LM
+Vanuatu,2011,LM
+Vanuatu,2012,LM
+Vanuatu,2013,LM
+Vanuatu,2014,LM
+Vanuatu,2015,LM
+Vanuatu,2016,LM
+Vanuatu,2017,LM
+"Venezuela, RB",2000,UM
+"Venezuela, RB",2001,UM
+"Venezuela, RB",2002,UM
+"Venezuela, RB",2003,UM
+"Venezuela, RB",2004,UM
+"Venezuela, RB",2005,UM
+"Venezuela, RB",2006,UM
+"Venezuela, RB",2007,UM
+"Venezuela, RB",2008,UM
+"Venezuela, RB",2009,UM
+"Venezuela, RB",2010,UM
+"Venezuela, RB",2011,UM
+"Venezuela, RB",2012,UM
+"Venezuela, RB",2013,UM
+"Venezuela, RB",2014,H
+"Venezuela, RB",2015,UM
+"Venezuela, RB",2016,UM
+"Venezuela, RB",2017,UM
+Vietnam,2000,L
+Vietnam,2001,L
+Vietnam,2002,L
+Vietnam,2003,L
+Vietnam,2004,L
+Vietnam,2005,L
+Vietnam,2006,L
+Vietnam,2007,L
+Vietnam,2008,L
+Vietnam,2009,LM
+Vietnam,2010,LM
+Vietnam,2011,LM
+Vietnam,2012,LM
+Vietnam,2013,LM
+Vietnam,2014,LM
+Vietnam,2015,LM
+Vietnam,2016,LM
+Vietnam,2017,LM
+Virgin Islands (U.S.),2000,H
+Virgin Islands (U.S.),2001,H
+Virgin Islands (U.S.),2002,H
+Virgin Islands (U.S.),2003,H
+Virgin Islands (U.S.),2004,H
+Virgin Islands (U.S.),2005,H
+Virgin Islands (U.S.),2006,H
+Virgin Islands (U.S.),2007,H
+Virgin Islands (U.S.),2008,H
+Virgin Islands (U.S.),2009,H
+Virgin Islands (U.S.),2010,H
+Virgin Islands (U.S.),2011,H
+Virgin Islands (U.S.),2012,H
+Virgin Islands (U.S.),2013,H
+Virgin Islands (U.S.),2014,H
+Virgin Islands (U.S.),2015,H
+Virgin Islands (U.S.),2016,H
+Virgin Islands (U.S.),2017,H
+West Bank and Gaza,2000,LM
+West Bank and Gaza,2001,LM
+West Bank and Gaza,2002,LM
+West Bank and Gaza,2003,LM
+West Bank and Gaza,2004,LM
+West Bank and Gaza,2005,LM
+West Bank and Gaza,2006,LM
+West Bank and Gaza,2007,LM
+West Bank and Gaza,2008,LM
+West Bank and Gaza,2009,LM
+West Bank and Gaza,2010,LM
+West Bank and Gaza,2011,LM
+West Bank and Gaza,2012,LM
+West Bank and Gaza,2013,LM
+West Bank and Gaza,2014,LM
+West Bank and Gaza,2015,LM
+West Bank and Gaza,2016,LM
+West Bank and Gaza,2017,LM
+"Yemen, Rep.",2000,L
+"Yemen, Rep.",2001,L
+"Yemen, Rep.",2002,L
+"Yemen, Rep.",2003,L
+"Yemen, Rep.",2004,L
+"Yemen, Rep.",2005,L
+"Yemen, Rep.",2006,L
+"Yemen, Rep.",2007,L
+"Yemen, Rep.",2008,L
+"Yemen, Rep.",2009,LM
+"Yemen, Rep.",2010,LM
+"Yemen, Rep.",2011,LM
+"Yemen, Rep.",2012,LM
+"Yemen, Rep.",2013,LM
+"Yemen, Rep.",2014,LM
+"Yemen, Rep.",2015,LM
+"Yemen, Rep.",2016,LM
+"Yemen, Rep.",2017,L
+Zambia,2000,L
+Zambia,2001,L
+Zambia,2002,L
+Zambia,2003,L
+Zambia,2004,L
+Zambia,2005,L
+Zambia,2006,L
+Zambia,2007,L
+Zambia,2008,L
+Zambia,2009,L
+Zambia,2010,LM
+Zambia,2011,LM
+Zambia,2012,LM
+Zambia,2013,LM
+Zambia,2014,LM
+Zambia,2015,LM
+Zambia,2016,LM
+Zambia,2017,LM
+Zimbabwe,2000,L
+Zimbabwe,2001,L
+Zimbabwe,2002,L
+Zimbabwe,2003,L
+Zimbabwe,2004,L
+Zimbabwe,2005,L
+Zimbabwe,2006,L
+Zimbabwe,2007,L
+Zimbabwe,2008,L
+Zimbabwe,2009,L
+Zimbabwe,2010,L
+Zimbabwe,2011,L
+Zimbabwe,2012,L
+Zimbabwe,2013,L
+Zimbabwe,2014,L
+Zimbabwe,2015,L
+Zimbabwe,2016,L
+Zimbabwe,2017,L
+Mayotte,2000,UM
+Mayotte,2001,UM
+Mayotte,2002,UM
+Mayotte,2003,UM
+Mayotte,2004,UM
+Mayotte,2005,UM
+Mayotte,2006,UM
+Mayotte,2007,UM
+Mayotte,2008,UM
+Mayotte,2009,UM
+Mayotte,2010,UM
+Netherlands Antilles (former),2000,H
+Netherlands Antilles (former),2001,H
+Netherlands Antilles (former),2002,H
+Netherlands Antilles (former),2003,H
+Netherlands Antilles (former),2004,H
+Netherlands Antilles (former),2005,H
+Netherlands Antilles (former),2006,H
+Netherlands Antilles (former),2007,H
+Netherlands Antilles (former),2008,H
+Netherlands Antilles (former),2009,H
+Serbia and Montenegro (former),2000,LM
+Serbia and Montenegro (former),2001,LM
+Serbia and Montenegro (former),2002,LM
+Serbia and Montenegro (former),2003,LM
+Serbia and Montenegro (former),2004,LM
+Serbia and Montenegro (former),2005,LM
