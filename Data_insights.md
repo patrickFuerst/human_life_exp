@@ -11,6 +11,11 @@ The Research and development expenditure has a lot of missing values. This need 
 
 In the case of 'Serbia and Montenegro (former)' which split up in 2006 we jsut have data until 2005 and after data we have data for Serbia and Montenegro.
 
+The country Rwanda contained two values per colunm for Life Expactancy. As a comment in the dataset set it said 'High HIV countries' on the second value. We just choose the first value to use. 
+
+One has to keep in mind that most of the data we are dealing here are estimates! 
+For example the a report on how to estimate Life Expectancy can be found here https://www.who.int/healthinfo/statistics/LT_method.pdf
+
 
 
 ## Learned Lesson: 
