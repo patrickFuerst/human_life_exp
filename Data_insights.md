@@ -16,6 +16,8 @@ The country Rwanda contained two values per colunm for Life Expactancy. As a com
 One has to keep in mind that most of the data we are dealing here are estimates! 
 For example the a report on how to estimate Life Expectancy can be found here https://www.who.int/healthinfo/statistics/LT_method.pdf
 
+Also the data of the WorldBank sometimes contains interpolated cells! They are marked seperate in the online database. 
+
 
 
 ## Learned Lesson: 
