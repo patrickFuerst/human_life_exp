@@ -1,6 +1,4 @@
-,,Life expectancy at birth (years),Life expectancy at birth (years),Life expectancy at birth (years)
-,, Both sexes, Male, Female
-Country,Year,,,
+Country,Year,Life expectancy at birth (years)  Both sexes,Life expectancy at birth (years)  Male,Life expectancy at birth (years)  Female
 Afghanistan,2016,62.7,61.0,64.5
 Afghanistan,2015,63.2,61.8,64.7
 Afghanistan,2014,63.0,61.7,64.4
@@ -3044,23 +3042,23 @@ Venezuela (Bolivarian Republic of),2003,72.0,67.8,76.6
 Venezuela (Bolivarian Republic of),2002,72.7,68.9,76.8
 Venezuela (Bolivarian Republic of),2001,72.1,68.2,76.4
 Venezuela (Bolivarian Republic of),2000,72.2,68.2,76.5
-Viet Nam,2016,76.3,71.7,80.9
-Viet Nam,2015,76.2,71.5,80.7
-Viet Nam,2014,76.0,71.3,80.6
-Viet Nam,2013,75.8,71.1,80.5
-Viet Nam,2012,75.7,70.9,80.4
-Viet Nam,2011,75.5,70.7,80.3
-Viet Nam,2010,75.4,70.6,80.2
-Viet Nam,2009,75.3,70.4,80.1
-Viet Nam,2008,75.2,70.2,80.1
-Viet Nam,2007,75.0,70.0,80.0
-Viet Nam,2006,74.9,69.9,79.8
-Viet Nam,2005,74.7,69.8,79.7
-Viet Nam,2004,74.5,69.6,79.4
-Viet Nam,2003,74.3,69.4,79.1
-Viet Nam,2002,73.9,69.1,78.8
-Viet Nam,2001,73.6,68.8,78.5
-Viet Nam,2000,73.3,68.5,78.2
+Vietnam,2016,76.3,71.7,80.9
+Vietnam,2015,76.2,71.5,80.7
+Vietnam,2014,76.0,71.3,80.6
+Vietnam,2013,75.8,71.1,80.5
+Vietnam,2012,75.7,70.9,80.4
+Vietnam,2011,75.5,70.7,80.3
+Vietnam,2010,75.4,70.6,80.2
+Vietnam,2009,75.3,70.4,80.1
+Vietnam,2008,75.2,70.2,80.1
+Vietnam,2007,75.0,70.0,80.0
+Vietnam,2006,74.9,69.9,79.8
+Vietnam,2005,74.7,69.8,79.7
+Vietnam,2004,74.5,69.6,79.4
+Vietnam,2003,74.3,69.4,79.1
+Vietnam,2002,73.9,69.1,78.8
+Vietnam,2001,73.6,68.8,78.5
+Vietnam,2000,73.3,68.5,78.2
 Yemen,2016,65.3,63.9,66.8
 Yemen,2015,64.5,62.8,66.2
 Yemen,2014,65.1,63.7,66.5

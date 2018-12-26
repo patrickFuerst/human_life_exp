@@ -233,24 +233,24 @@ Azerbaijan,2014,UM
 Azerbaijan,2015,UM
 Azerbaijan,2016,UM
 Azerbaijan,2017,UM
-"Bahamas, The",2000,H
-"Bahamas, The",2001,H
-"Bahamas, The",2002,H
-"Bahamas, The",2003,H
-"Bahamas, The",2004,H
-"Bahamas, The",2005,H
-"Bahamas, The",2006,H
-"Bahamas, The",2007,H
-"Bahamas, The",2008,H
-"Bahamas, The",2009,H
-"Bahamas, The",2010,H
-"Bahamas, The",2011,H
-"Bahamas, The",2012,H
-"Bahamas, The",2013,H
-"Bahamas, The",2014,H
-"Bahamas, The",2015,H
-"Bahamas, The",2016,H
-"Bahamas, The",2017,H
+Bahamas,2000,H
+Bahamas,2001,H
+Bahamas,2002,H
+Bahamas,2003,H
+Bahamas,2004,H
+Bahamas,2005,H
+Bahamas,2006,H
+Bahamas,2007,H
+Bahamas,2008,H
+Bahamas,2009,H
+Bahamas,2010,H
+Bahamas,2011,H
+Bahamas,2012,H
+Bahamas,2013,H
+Bahamas,2014,H
+Bahamas,2015,H
+Bahamas,2016,H
+Bahamas,2017,H
 Bahrain,2000,UM
 Bahrain,2001,H
 Bahrain,2002,H
@@ -413,24 +413,24 @@ Bhutan,2014,LM
 Bhutan,2015,LM
 Bhutan,2016,LM
 Bhutan,2017,LM
-Bolivia,2000,LM
-Bolivia,2001,LM
-Bolivia,2002,LM
-Bolivia,2003,LM
-Bolivia,2004,LM
-Bolivia,2005,LM
-Bolivia,2006,LM
-Bolivia,2007,LM
-Bolivia,2008,LM
-Bolivia,2009,LM
-Bolivia,2010,LM
-Bolivia,2011,LM
-Bolivia,2012,LM
-Bolivia,2013,LM
-Bolivia,2014,LM
-Bolivia,2015,LM
-Bolivia,2016,LM
-Bolivia,2017,LM
+Bolivia (Plurinational State of),2000,LM
+Bolivia (Plurinational State of),2001,LM
+Bolivia (Plurinational State of),2002,LM
+Bolivia (Plurinational State of),2003,LM
+Bolivia (Plurinational State of),2004,LM
+Bolivia (Plurinational State of),2005,LM
+Bolivia (Plurinational State of),2006,LM
+Bolivia (Plurinational State of),2007,LM
+Bolivia (Plurinational State of),2008,LM
+Bolivia (Plurinational State of),2009,LM
+Bolivia (Plurinational State of),2010,LM
+Bolivia (Plurinational State of),2011,LM
+Bolivia (Plurinational State of),2012,LM
+Bolivia (Plurinational State of),2013,LM
+Bolivia (Plurinational State of),2014,LM
+Bolivia (Plurinational State of),2015,LM
+Bolivia (Plurinational State of),2016,LM
+Bolivia (Plurinational State of),2017,LM
 Bosnia and Herzegovina,2000,LM
 Bosnia and Herzegovina,2001,LM
 Bosnia and Herzegovina,2002,LM
@@ -791,42 +791,42 @@ Comoros,2014,L
 Comoros,2015,L
 Comoros,2016,L
 Comoros,2017,L
-"Congo, Dem. Rep.",2000,L
-"Congo, Dem. Rep.",2001,L
-"Congo, Dem. Rep.",2002,L
-"Congo, Dem. Rep.",2003,L
-"Congo, Dem. Rep.",2004,L
-"Congo, Dem. Rep.",2005,L
-"Congo, Dem. Rep.",2006,L
-"Congo, Dem. Rep.",2007,L
-"Congo, Dem. Rep.",2008,L
-"Congo, Dem. Rep.",2009,L
-"Congo, Dem. Rep.",2010,L
-"Congo, Dem. Rep.",2011,L
-"Congo, Dem. Rep.",2012,L
-"Congo, Dem. Rep.",2013,L
-"Congo, Dem. Rep.",2014,L
-"Congo, Dem. Rep.",2015,L
-"Congo, Dem. Rep.",2016,L
-"Congo, Dem. Rep.",2017,L
-"Congo, Rep.",2000,L
-"Congo, Rep.",2001,L
-"Congo, Rep.",2002,L
-"Congo, Rep.",2003,L
-"Congo, Rep.",2004,L
-"Congo, Rep.",2005,LM
-"Congo, Rep.",2006,LM
-"Congo, Rep.",2007,LM
-"Congo, Rep.",2008,LM
-"Congo, Rep.",2009,LM
-"Congo, Rep.",2010,LM
-"Congo, Rep.",2011,LM
-"Congo, Rep.",2012,LM
-"Congo, Rep.",2013,LM
-"Congo, Rep.",2014,LM
-"Congo, Rep.",2015,LM
-"Congo, Rep.",2016,LM
-"Congo, Rep.",2017,LM
+Democratic Republic of the Congo,2000,L
+Democratic Republic of the Congo,2001,L
+Democratic Republic of the Congo,2002,L
+Democratic Republic of the Congo,2003,L
+Democratic Republic of the Congo,2004,L
+Democratic Republic of the Congo,2005,L
+Democratic Republic of the Congo,2006,L
+Democratic Republic of the Congo,2007,L
+Democratic Republic of the Congo,2008,L
+Democratic Republic of the Congo,2009,L
+Democratic Republic of the Congo,2010,L
+Democratic Republic of the Congo,2011,L
+Democratic Republic of the Congo,2012,L
+Democratic Republic of the Congo,2013,L
+Democratic Republic of the Congo,2014,L
+Democratic Republic of the Congo,2015,L
+Democratic Republic of the Congo,2016,L
+Democratic Republic of the Congo,2017,L
+Congo,2000,L
+Congo,2001,L
+Congo,2002,L
+Congo,2003,L
+Congo,2004,L
+Congo,2005,LM
+Congo,2006,LM
+Congo,2007,LM
+Congo,2008,LM
+Congo,2009,LM
+Congo,2010,LM
+Congo,2011,LM
+Congo,2012,LM
+Congo,2013,LM
+Congo,2014,LM
+Congo,2015,LM
+Congo,2016,LM
+Congo,2017,LM
 Costa Rica,2000,UM
 Costa Rica,2001,UM
 Costa Rica,2002,UM
@@ -935,24 +935,24 @@ Cyprus,2014,H
 Cyprus,2015,H
 Cyprus,2016,H
 Cyprus,2017,H
-Czech Republic,2000,UM
-Czech Republic,2001,UM
-Czech Republic,2002,UM
-Czech Republic,2003,UM
-Czech Republic,2004,UM
-Czech Republic,2005,UM
-Czech Republic,2006,H
-Czech Republic,2007,H
-Czech Republic,2008,H
-Czech Republic,2009,H
-Czech Republic,2010,H
-Czech Republic,2011,H
-Czech Republic,2012,H
-Czech Republic,2013,H
-Czech Republic,2014,H
-Czech Republic,2015,H
-Czech Republic,2016,H
-Czech Republic,2017,H
+Czechia,2000,UM
+Czechia,2001,UM
+Czechia,2002,UM
+Czechia,2003,UM
+Czechia,2004,UM
+Czechia,2005,UM
+Czechia,2006,H
+Czechia,2007,H
+Czechia,2008,H
+Czechia,2009,H
+Czechia,2010,H
+Czechia,2011,H
+Czechia,2012,H
+Czechia,2013,H
+Czechia,2014,H
+Czechia,2015,H
+Czechia,2016,H
+Czechia,2017,H
 Denmark,2000,H
 Denmark,2001,H
 Denmark,2002,H
@@ -1043,24 +1043,24 @@ Ecuador,2014,UM
 Ecuador,2015,UM
 Ecuador,2016,UM
 Ecuador,2017,UM
-"Egypt, Arab Rep.",2000,LM
-"Egypt, Arab Rep.",2001,LM
-"Egypt, Arab Rep.",2002,LM
-"Egypt, Arab Rep.",2003,LM
-"Egypt, Arab Rep.",2004,LM
-"Egypt, Arab Rep.",2005,LM
-"Egypt, Arab Rep.",2006,LM
-"Egypt, Arab Rep.",2007,LM
-"Egypt, Arab Rep.",2008,LM
-"Egypt, Arab Rep.",2009,LM
-"Egypt, Arab Rep.",2010,LM
-"Egypt, Arab Rep.",2011,LM
-"Egypt, Arab Rep.",2012,LM
-"Egypt, Arab Rep.",2013,LM
-"Egypt, Arab Rep.",2014,LM
-"Egypt, Arab Rep.",2015,LM
-"Egypt, Arab Rep.",2016,LM
-"Egypt, Arab Rep.",2017,LM
+Egypt,2000,LM
+Egypt,2001,LM
+Egypt,2002,LM
+Egypt,2003,LM
+Egypt,2004,LM
+Egypt,2005,LM
+Egypt,2006,LM
+Egypt,2007,LM
+Egypt,2008,LM
+Egypt,2009,LM
+Egypt,2010,LM
+Egypt,2011,LM
+Egypt,2012,LM
+Egypt,2013,LM
+Egypt,2014,LM
+Egypt,2015,LM
+Egypt,2016,LM
+Egypt,2017,LM
 El Salvador,2000,LM
 El Salvador,2001,LM
 El Salvador,2002,LM
@@ -1259,24 +1259,24 @@ Gabon,2014,UM
 Gabon,2015,UM
 Gabon,2016,UM
 Gabon,2017,UM
-"Gambia, The",2000,L
-"Gambia, The",2001,L
-"Gambia, The",2002,L
-"Gambia, The",2003,L
-"Gambia, The",2004,L
-"Gambia, The",2005,L
-"Gambia, The",2006,L
-"Gambia, The",2007,L
-"Gambia, The",2008,L
-"Gambia, The",2009,L
-"Gambia, The",2010,L
-"Gambia, The",2011,L
-"Gambia, The",2012,L
-"Gambia, The",2013,L
-"Gambia, The",2014,L
-"Gambia, The",2015,L
-"Gambia, The",2016,L
-"Gambia, The",2017,L
+Gambia,2000,L
+Gambia,2001,L
+Gambia,2002,L
+Gambia,2003,L
+Gambia,2004,L
+Gambia,2005,L
+Gambia,2006,L
+Gambia,2007,L
+Gambia,2008,L
+Gambia,2009,L
+Gambia,2010,L
+Gambia,2011,L
+Gambia,2012,L
+Gambia,2013,L
+Gambia,2014,L
+Gambia,2015,L
+Gambia,2016,L
+Gambia,2017,L
 Georgia,2000,L
 Georgia,2001,L
 Georgia,2002,L
@@ -1619,24 +1619,24 @@ Indonesia,2014,LM
 Indonesia,2015,LM
 Indonesia,2016,LM
 Indonesia,2017,LM
-"Iran, Islamic Rep.",2000,LM
-"Iran, Islamic Rep.",2001,LM
-"Iran, Islamic Rep.",2002,LM
-"Iran, Islamic Rep.",2003,LM
-"Iran, Islamic Rep.",2004,LM
-"Iran, Islamic Rep.",2005,LM
-"Iran, Islamic Rep.",2006,LM
-"Iran, Islamic Rep.",2007,LM
-"Iran, Islamic Rep.",2008,LM
-"Iran, Islamic Rep.",2009,UM
-"Iran, Islamic Rep.",2010,UM
-"Iran, Islamic Rep.",2011,UM
-"Iran, Islamic Rep.",2012,UM
-"Iran, Islamic Rep.",2013,UM
-"Iran, Islamic Rep.",2014,UM
-"Iran, Islamic Rep.",2015,UM
-"Iran, Islamic Rep.",2016,UM
-"Iran, Islamic Rep.",2017,UM
+Iran (Islamic Republic of),2000,LM
+Iran (Islamic Republic of),2001,LM
+Iran (Islamic Republic of),2002,LM
+Iran (Islamic Republic of),2003,LM
+Iran (Islamic Republic of),2004,LM
+Iran (Islamic Republic of),2005,LM
+Iran (Islamic Republic of),2006,LM
+Iran (Islamic Republic of),2007,LM
+Iran (Islamic Republic of),2008,LM
+Iran (Islamic Republic of),2009,UM
+Iran (Islamic Republic of),2010,UM
+Iran (Islamic Republic of),2011,UM
+Iran (Islamic Republic of),2012,UM
+Iran (Islamic Republic of),2013,UM
+Iran (Islamic Republic of),2014,UM
+Iran (Islamic Republic of),2015,UM
+Iran (Islamic Republic of),2016,UM
+Iran (Islamic Republic of),2017,UM
 Iraq,2000,LM
 Iraq,2001,LM
 Iraq,2002,LM
@@ -1835,42 +1835,42 @@ Kiribati,2014,LM
 Kiribati,2015,LM
 Kiribati,2016,LM
 Kiribati,2017,LM
-"Korea, Dem. Rep.",2000,L
-"Korea, Dem. Rep.",2001,L
-"Korea, Dem. Rep.",2002,L
-"Korea, Dem. Rep.",2003,L
-"Korea, Dem. Rep.",2004,L
-"Korea, Dem. Rep.",2005,L
-"Korea, Dem. Rep.",2006,L
-"Korea, Dem. Rep.",2007,L
-"Korea, Dem. Rep.",2008,L
-"Korea, Dem. Rep.",2009,L
-"Korea, Dem. Rep.",2010,L
-"Korea, Dem. Rep.",2011,L
-"Korea, Dem. Rep.",2012,L
-"Korea, Dem. Rep.",2013,L
-"Korea, Dem. Rep.",2014,L
-"Korea, Dem. Rep.",2015,L
-"Korea, Dem. Rep.",2016,L
-"Korea, Dem. Rep.",2017,L
-"Korea, Rep.",2000,UM
-"Korea, Rep.",2001,H
-"Korea, Rep.",2002,H
-"Korea, Rep.",2003,H
-"Korea, Rep.",2004,H
-"Korea, Rep.",2005,H
-"Korea, Rep.",2006,H
-"Korea, Rep.",2007,H
-"Korea, Rep.",2008,H
-"Korea, Rep.",2009,H
-"Korea, Rep.",2010,H
-"Korea, Rep.",2011,H
-"Korea, Rep.",2012,H
-"Korea, Rep.",2013,H
-"Korea, Rep.",2014,H
-"Korea, Rep.",2015,H
-"Korea, Rep.",2016,H
-"Korea, Rep.",2017,H
+Democratic People's Republic of Korea,2000,L
+Democratic People's Republic of Korea,2001,L
+Democratic People's Republic of Korea,2002,L
+Democratic People's Republic of Korea,2003,L
+Democratic People's Republic of Korea,2004,L
+Democratic People's Republic of Korea,2005,L
+Democratic People's Republic of Korea,2006,L
+Democratic People's Republic of Korea,2007,L
+Democratic People's Republic of Korea,2008,L
+Democratic People's Republic of Korea,2009,L
+Democratic People's Republic of Korea,2010,L
+Democratic People's Republic of Korea,2011,L
+Democratic People's Republic of Korea,2012,L
+Democratic People's Republic of Korea,2013,L
+Democratic People's Republic of Korea,2014,L
+Democratic People's Republic of Korea,2015,L
+Democratic People's Republic of Korea,2016,L
+Democratic People's Republic of Korea,2017,L
+Republic of Korea,2000,UM
+Republic of Korea,2001,H
+Republic of Korea,2002,H
+Republic of Korea,2003,H
+Republic of Korea,2004,H
+Republic of Korea,2005,H
+Republic of Korea,2006,H
+Republic of Korea,2007,H
+Republic of Korea,2008,H
+Republic of Korea,2009,H
+Republic of Korea,2010,H
+Republic of Korea,2011,H
+Republic of Korea,2012,H
+Republic of Korea,2013,H
+Republic of Korea,2014,H
+Republic of Korea,2015,H
+Republic of Korea,2016,H
+Republic of Korea,2017,H
 Kosovo,2000,Unknown
 Kosovo,2001,Unknown
 Kosovo,2002,Unknown
@@ -1907,42 +1907,42 @@ Kuwait,2014,H
 Kuwait,2015,H
 Kuwait,2016,H
 Kuwait,2017,H
-Kyrgyz Republic,2000,L
-Kyrgyz Republic,2001,L
-Kyrgyz Republic,2002,L
-Kyrgyz Republic,2003,L
-Kyrgyz Republic,2004,L
-Kyrgyz Republic,2005,L
-Kyrgyz Republic,2006,L
-Kyrgyz Republic,2007,L
-Kyrgyz Republic,2008,L
-Kyrgyz Republic,2009,L
-Kyrgyz Republic,2010,L
-Kyrgyz Republic,2011,L
-Kyrgyz Republic,2012,L
-Kyrgyz Republic,2013,LM
-Kyrgyz Republic,2014,LM
-Kyrgyz Republic,2015,LM
-Kyrgyz Republic,2016,LM
-Kyrgyz Republic,2017,LM
-Lao PDR,2000,L
-Lao PDR,2001,L
-Lao PDR,2002,L
-Lao PDR,2003,L
-Lao PDR,2004,L
-Lao PDR,2005,L
-Lao PDR,2006,L
-Lao PDR,2007,L
-Lao PDR,2008,L
-Lao PDR,2009,L
-Lao PDR,2010,LM
-Lao PDR,2011,LM
-Lao PDR,2012,LM
-Lao PDR,2013,LM
-Lao PDR,2014,LM
-Lao PDR,2015,LM
-Lao PDR,2016,LM
-Lao PDR,2017,LM
+Kyrgyzstan,2000,L
+Kyrgyzstan,2001,L
+Kyrgyzstan,2002,L
+Kyrgyzstan,2003,L
+Kyrgyzstan,2004,L
+Kyrgyzstan,2005,L
+Kyrgyzstan,2006,L
+Kyrgyzstan,2007,L
+Kyrgyzstan,2008,L
+Kyrgyzstan,2009,L
+Kyrgyzstan,2010,L
+Kyrgyzstan,2011,L
+Kyrgyzstan,2012,L
+Kyrgyzstan,2013,LM
+Kyrgyzstan,2014,LM
+Kyrgyzstan,2015,LM
+Kyrgyzstan,2016,LM
+Kyrgyzstan,2017,LM
+Lao People's Democratic Republic,2000,L
+Lao People's Democratic Republic,2001,L
+Lao People's Democratic Republic,2002,L
+Lao People's Democratic Republic,2003,L
+Lao People's Democratic Republic,2004,L
+Lao People's Democratic Republic,2005,L
+Lao People's Democratic Republic,2006,L
+Lao People's Democratic Republic,2007,L
+Lao People's Democratic Republic,2008,L
+Lao People's Democratic Republic,2009,L
+Lao People's Democratic Republic,2010,LM
+Lao People's Democratic Republic,2011,LM
+Lao People's Democratic Republic,2012,LM
+Lao People's Democratic Republic,2013,LM
+Lao People's Democratic Republic,2014,LM
+Lao People's Democratic Republic,2015,LM
+Lao People's Democratic Republic,2016,LM
+Lao People's Democratic Republic,2017,LM
 Latvia,2000,LM
 Latvia,2001,UM
 Latvia,2002,UM
@@ -2105,24 +2105,24 @@ Luxembourg,2017,H
 "Macao SAR, China",2015,H
 "Macao SAR, China",2016,H
 "Macao SAR, China",2017,H
-"Macedonia, FYR",2000,LM
-"Macedonia, FYR",2001,LM
-"Macedonia, FYR",2002,LM
-"Macedonia, FYR",2003,LM
-"Macedonia, FYR",2004,LM
-"Macedonia, FYR",2005,LM
-"Macedonia, FYR",2006,LM
-"Macedonia, FYR",2007,LM
-"Macedonia, FYR",2008,UM
-"Macedonia, FYR",2009,UM
-"Macedonia, FYR",2010,UM
-"Macedonia, FYR",2011,UM
-"Macedonia, FYR",2012,UM
-"Macedonia, FYR",2013,UM
-"Macedonia, FYR",2014,UM
-"Macedonia, FYR",2015,UM
-"Macedonia, FYR",2016,UM
-"Macedonia, FYR",2017,UM
+The former Yugoslav republic of Macedonia,2000,LM
+The former Yugoslav republic of Macedonia,2001,LM
+The former Yugoslav republic of Macedonia,2002,LM
+The former Yugoslav republic of Macedonia,2003,LM
+The former Yugoslav republic of Macedonia,2004,LM
+The former Yugoslav republic of Macedonia,2005,LM
+The former Yugoslav republic of Macedonia,2006,LM
+The former Yugoslav republic of Macedonia,2007,LM
+The former Yugoslav republic of Macedonia,2008,UM
+The former Yugoslav republic of Macedonia,2009,UM
+The former Yugoslav republic of Macedonia,2010,UM
+The former Yugoslav republic of Macedonia,2011,UM
+The former Yugoslav republic of Macedonia,2012,UM
+The former Yugoslav republic of Macedonia,2013,UM
+The former Yugoslav republic of Macedonia,2014,UM
+The former Yugoslav republic of Macedonia,2015,UM
+The former Yugoslav republic of Macedonia,2016,UM
+The former Yugoslav republic of Macedonia,2017,UM
 Madagascar,2000,L
 Madagascar,2001,L
 Madagascar,2002,L
@@ -2303,42 +2303,42 @@ Mexico,2014,UM
 Mexico,2015,UM
 Mexico,2016,UM
 Mexico,2017,UM
-"Micronesia, Fed. Sts.",2000,LM
-"Micronesia, Fed. Sts.",2001,LM
-"Micronesia, Fed. Sts.",2002,LM
-"Micronesia, Fed. Sts.",2003,LM
-"Micronesia, Fed. Sts.",2004,LM
-"Micronesia, Fed. Sts.",2005,LM
-"Micronesia, Fed. Sts.",2006,LM
-"Micronesia, Fed. Sts.",2007,LM
-"Micronesia, Fed. Sts.",2008,LM
-"Micronesia, Fed. Sts.",2009,LM
-"Micronesia, Fed. Sts.",2010,LM
-"Micronesia, Fed. Sts.",2011,LM
-"Micronesia, Fed. Sts.",2012,LM
-"Micronesia, Fed. Sts.",2013,LM
-"Micronesia, Fed. Sts.",2014,LM
-"Micronesia, Fed. Sts.",2015,LM
-"Micronesia, Fed. Sts.",2016,LM
-"Micronesia, Fed. Sts.",2017,LM
-Moldova,2000,L
-Moldova,2001,L
-Moldova,2002,L
-Moldova,2003,L
-Moldova,2004,L
-Moldova,2005,LM
-Moldova,2006,LM
-Moldova,2007,LM
-Moldova,2008,LM
-Moldova,2009,LM
-Moldova,2010,LM
-Moldova,2011,LM
-Moldova,2012,LM
-Moldova,2013,LM
-Moldova,2014,LM
-Moldova,2015,LM
-Moldova,2016,LM
-Moldova,2017,LM
+Micronesia (Federated States of),2000,LM
+Micronesia (Federated States of),2001,LM
+Micronesia (Federated States of),2002,LM
+Micronesia (Federated States of),2003,LM
+Micronesia (Federated States of),2004,LM
+Micronesia (Federated States of),2005,LM
+Micronesia (Federated States of),2006,LM
+Micronesia (Federated States of),2007,LM
+Micronesia (Federated States of),2008,LM
+Micronesia (Federated States of),2009,LM
+Micronesia (Federated States of),2010,LM
+Micronesia (Federated States of),2011,LM
+Micronesia (Federated States of),2012,LM
+Micronesia (Federated States of),2013,LM
+Micronesia (Federated States of),2014,LM
+Micronesia (Federated States of),2015,LM
+Micronesia (Federated States of),2016,LM
+Micronesia (Federated States of),2017,LM
+Republic of Moldova,2000,L
+Republic of Moldova,2001,L
+Republic of Moldova,2002,L
+Republic of Moldova,2003,L
+Republic of Moldova,2004,L
+Republic of Moldova,2005,LM
+Republic of Moldova,2006,LM
+Republic of Moldova,2007,LM
+Republic of Moldova,2008,LM
+Republic of Moldova,2009,LM
+Republic of Moldova,2010,LM
+Republic of Moldova,2011,LM
+Republic of Moldova,2012,LM
+Republic of Moldova,2013,LM
+Republic of Moldova,2014,LM
+Republic of Moldova,2015,LM
+Republic of Moldova,2016,LM
+Republic of Moldova,2017,LM
 Monaco,2000,H
 Monaco,2001,H
 Monaco,2002,H
@@ -3095,24 +3095,24 @@ Sint Maarten (Dutch part),2014,H
 Sint Maarten (Dutch part),2015,H
 Sint Maarten (Dutch part),2016,H
 Sint Maarten (Dutch part),2017,H
-Slovak Republic,2000,UM
-Slovak Republic,2001,UM
-Slovak Republic,2002,UM
-Slovak Republic,2003,UM
-Slovak Republic,2004,UM
-Slovak Republic,2005,UM
-Slovak Republic,2006,UM
-Slovak Republic,2007,H
-Slovak Republic,2008,H
-Slovak Republic,2009,H
-Slovak Republic,2010,H
-Slovak Republic,2011,H
-Slovak Republic,2012,H
-Slovak Republic,2013,H
-Slovak Republic,2014,H
-Slovak Republic,2015,H
-Slovak Republic,2016,H
-Slovak Republic,2017,H
+Slovakia,2000,UM
+Slovakia,2001,UM
+Slovakia,2002,UM
+Slovakia,2003,UM
+Slovakia,2004,UM
+Slovakia,2005,UM
+Slovakia,2006,UM
+Slovakia,2007,H
+Slovakia,2008,H
+Slovakia,2009,H
+Slovakia,2010,H
+Slovakia,2011,H
+Slovakia,2012,H
+Slovakia,2013,H
+Slovakia,2014,H
+Slovakia,2015,H
+Slovakia,2016,H
+Slovakia,2017,H
 Slovenia,2000,H
 Slovenia,2001,H
 Slovenia,2002,H
@@ -3347,24 +3347,24 @@ Suriname,2014,UM
 Suriname,2015,UM
 Suriname,2016,UM
 Suriname,2017,UM
-Swaziland,2000,LM
-Swaziland,2001,LM
-Swaziland,2002,LM
-Swaziland,2003,LM
-Swaziland,2004,LM
-Swaziland,2005,LM
-Swaziland,2006,LM
-Swaziland,2007,LM
-Swaziland,2008,LM
-Swaziland,2009,LM
-Swaziland,2010,LM
-Swaziland,2011,LM
-Swaziland,2012,LM
-Swaziland,2013,LM
-Swaziland,2014,LM
-Swaziland,2015,LM
-Swaziland,2016,LM
-Swaziland,2017,LM
+Eswatini,2000,LM
+Eswatini,2001,LM
+Eswatini,2002,LM
+Eswatini,2003,LM
+Eswatini,2004,LM
+Eswatini,2005,LM
+Eswatini,2006,LM
+Eswatini,2007,LM
+Eswatini,2008,LM
+Eswatini,2009,LM
+Eswatini,2010,LM
+Eswatini,2011,LM
+Eswatini,2012,LM
+Eswatini,2013,LM
+Eswatini,2014,LM
+Eswatini,2015,LM
+Eswatini,2016,LM
+Eswatini,2017,LM
 Sweden,2000,H
 Sweden,2001,H
 Sweden,2002,H
@@ -3455,24 +3455,24 @@ Tajikistan,2014,LM
 Tajikistan,2015,LM
 Tajikistan,2016,LM
 Tajikistan,2017,L
-Tanzania,2000,L
-Tanzania,2001,L
-Tanzania,2002,L
-Tanzania,2003,L
-Tanzania,2004,L
-Tanzania,2005,L
-Tanzania,2006,L
-Tanzania,2007,L
-Tanzania,2008,L
-Tanzania,2009,L
-Tanzania,2010,L
-Tanzania,2011,L
-Tanzania,2012,L
-Tanzania,2013,L
-Tanzania,2014,L
-Tanzania,2015,L
-Tanzania,2016,L
-Tanzania,2017,L
+United Republic of Tanzania,2000,L
+United Republic of Tanzania,2001,L
+United Republic of Tanzania,2002,L
+United Republic of Tanzania,2003,L
+United Republic of Tanzania,2004,L
+United Republic of Tanzania,2005,L
+United Republic of Tanzania,2006,L
+United Republic of Tanzania,2007,L
+United Republic of Tanzania,2008,L
+United Republic of Tanzania,2009,L
+United Republic of Tanzania,2010,L
+United Republic of Tanzania,2011,L
+United Republic of Tanzania,2012,L
+United Republic of Tanzania,2013,L
+United Republic of Tanzania,2014,L
+United Republic of Tanzania,2015,L
+United Republic of Tanzania,2016,L
+United Republic of Tanzania,2017,L
 Thailand,2000,LM
 Thailand,2001,LM
 Thailand,2002,LM
@@ -3707,42 +3707,42 @@ United Arab Emirates,2014,H
 United Arab Emirates,2015,H
 United Arab Emirates,2016,H
 United Arab Emirates,2017,H
-United Kingdom,2000,H
-United Kingdom,2001,H
-United Kingdom,2002,H
-United Kingdom,2003,H
-United Kingdom,2004,H
-United Kingdom,2005,H
-United Kingdom,2006,H
-United Kingdom,2007,H
-United Kingdom,2008,H
-United Kingdom,2009,H
-United Kingdom,2010,H
-United Kingdom,2011,H
-United Kingdom,2012,H
-United Kingdom,2013,H
-United Kingdom,2014,H
-United Kingdom,2015,H
-United Kingdom,2016,H
-United Kingdom,2017,H
-United States,2000,H
-United States,2001,H
-United States,2002,H
-United States,2003,H
-United States,2004,H
-United States,2005,H
-United States,2006,H
-United States,2007,H
-United States,2008,H
-United States,2009,H
-United States,2010,H
-United States,2011,H
-United States,2012,H
-United States,2013,H
-United States,2014,H
-United States,2015,H
-United States,2016,H
-United States,2017,H
+United Kingdom of Great Britain and Northern Ireland,2000,H
+United Kingdom of Great Britain and Northern Ireland,2001,H
+United Kingdom of Great Britain and Northern Ireland,2002,H
+United Kingdom of Great Britain and Northern Ireland,2003,H
+United Kingdom of Great Britain and Northern Ireland,2004,H
+United Kingdom of Great Britain and Northern Ireland,2005,H
+United Kingdom of Great Britain and Northern Ireland,2006,H
+United Kingdom of Great Britain and Northern Ireland,2007,H
+United Kingdom of Great Britain and Northern Ireland,2008,H
+United Kingdom of Great Britain and Northern Ireland,2009,H
+United Kingdom of Great Britain and Northern Ireland,2010,H
+United Kingdom of Great Britain and Northern Ireland,2011,H
+United Kingdom of Great Britain and Northern Ireland,2012,H
+United Kingdom of Great Britain and Northern Ireland,2013,H
+United Kingdom of Great Britain and Northern Ireland,2014,H
+United Kingdom of Great Britain and Northern Ireland,2015,H
+United Kingdom of Great Britain and Northern Ireland,2016,H
+United Kingdom of Great Britain and Northern Ireland,2017,H
+United States of America,2000,H
+United States of America,2001,H
+United States of America,2002,H
+United States of America,2003,H
+United States of America,2004,H
+United States of America,2005,H
+United States of America,2006,H
+United States of America,2007,H
+United States of America,2008,H
+United States of America,2009,H
+United States of America,2010,H
+United States of America,2011,H
+United States of America,2012,H
+United States of America,2013,H
+United States of America,2014,H
+United States of America,2015,H
+United States of America,2016,H
+United States of America,2017,H
 Uruguay,2000,UM
 Uruguay,2001,UM
 Uruguay,2002,UM
@@ -3797,24 +3797,24 @@ Vanuatu,2014,LM
 Vanuatu,2015,LM
 Vanuatu,2016,LM
 Vanuatu,2017,LM
-"Venezuela, RB",2000,UM
-"Venezuela, RB",2001,UM
-"Venezuela, RB",2002,UM
-"Venezuela, RB",2003,UM
-"Venezuela, RB",2004,UM
-"Venezuela, RB",2005,UM
-"Venezuela, RB",2006,UM
-"Venezuela, RB",2007,UM
-"Venezuela, RB",2008,UM
-"Venezuela, RB",2009,UM
-"Venezuela, RB",2010,UM
-"Venezuela, RB",2011,UM
-"Venezuela, RB",2012,UM
-"Venezuela, RB",2013,UM
-"Venezuela, RB",2014,H
-"Venezuela, RB",2015,UM
-"Venezuela, RB",2016,UM
-"Venezuela, RB",2017,UM
+Venezuela (Bolivarian Republic of),2000,UM
+Venezuela (Bolivarian Republic of),2001,UM
+Venezuela (Bolivarian Republic of),2002,UM
+Venezuela (Bolivarian Republic of),2003,UM
+Venezuela (Bolivarian Republic of),2004,UM
+Venezuela (Bolivarian Republic of),2005,UM
+Venezuela (Bolivarian Republic of),2006,UM
+Venezuela (Bolivarian Republic of),2007,UM
+Venezuela (Bolivarian Republic of),2008,UM
+Venezuela (Bolivarian Republic of),2009,UM
+Venezuela (Bolivarian Republic of),2010,UM
+Venezuela (Bolivarian Republic of),2011,UM
+Venezuela (Bolivarian Republic of),2012,UM
+Venezuela (Bolivarian Republic of),2013,UM
+Venezuela (Bolivarian Republic of),2014,H
+Venezuela (Bolivarian Republic of),2015,UM
+Venezuela (Bolivarian Republic of),2016,UM
+Venezuela (Bolivarian Republic of),2017,UM
 Vietnam,2000,L
 Vietnam,2001,L
 Vietnam,2002,L
@@ -3869,24 +3869,24 @@ West Bank and Gaza,2014,LM
 West Bank and Gaza,2015,LM
 West Bank and Gaza,2016,LM
 West Bank and Gaza,2017,LM
-"Yemen, Rep.",2000,L
-"Yemen, Rep.",2001,L
-"Yemen, Rep.",2002,L
-"Yemen, Rep.",2003,L
-"Yemen, Rep.",2004,L
-"Yemen, Rep.",2005,L
-"Yemen, Rep.",2006,L
-"Yemen, Rep.",2007,L
-"Yemen, Rep.",2008,L
-"Yemen, Rep.",2009,LM
-"Yemen, Rep.",2010,LM
-"Yemen, Rep.",2011,LM
-"Yemen, Rep.",2012,LM
-"Yemen, Rep.",2013,LM
-"Yemen, Rep.",2014,LM
-"Yemen, Rep.",2015,LM
-"Yemen, Rep.",2016,LM
-"Yemen, Rep.",2017,L
+Yemen,2000,L
+Yemen,2001,L
+Yemen,2002,L
+Yemen,2003,L
+Yemen,2004,L
+Yemen,2005,L
+Yemen,2006,L
+Yemen,2007,L
+Yemen,2008,L
+Yemen,2009,LM
+Yemen,2010,LM
+Yemen,2011,LM
+Yemen,2012,LM
+Yemen,2013,LM
+Yemen,2014,LM
+Yemen,2015,LM
+Yemen,2016,LM
+Yemen,2017,L
 Zambia,2000,L
 Zambia,2001,L
 Zambia,2002,L
