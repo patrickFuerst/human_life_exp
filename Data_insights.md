@@ -2,8 +2,8 @@
 
 # Data Documentation: 
 
-One bigger issue was the different nameing convention of the World Bank and the GHO. 
-We prepared the data so that we used the GHO naming convention and also only the Countries where we got Life Expecatancy data from the WHO. 
+One bigger issue was the different nameing convention of the World Bank and the WHO. 
+We prepared the data so that we used the WHO naming convention and also only the Countries where we got Life Expecatancy data from the WHO. 
 Also sometimes it is not clear what is part of a country. Are the islands of UK and Netherlands also part of the GHO data, because in the World Bank data it is seperate. 
 There is no information on the WHO site on what is part of this country. 
 
