@@ -10,11 +10,6 @@ Kaggle Life Expectancy Data (WHO and UN)
 - One merged dataset containing: data related to life expectancy and health factors for 193 countries from
  World Health Organization and data related to economics was collected from United Nations. 
 - Missing income level attribute, could use data from 'Life Expectancy Analysis Example' from above
-
-
-# Workplan 
-            
-      
         
 ## Question:
 5. What is the average human life expectancy in the world? How does this differ between low-, medium, and high-income countries? What characteristics of countries are predictors for differences in life expectancies? What characteristics are predictors for changes in life expectancy in a country over time? 
@@ -57,3 +52,8 @@ Check predictions
 
 Data Visualization. (Anna)
 Writing the report.
+
+
+## Presentation
+
+Can be found here: https://docs.google.com/presentation/d/1R3cg_Q3E91YZrrgCgZAby8g247Zm1EixiHsUMv0_EMY/edit?usp=sharing
