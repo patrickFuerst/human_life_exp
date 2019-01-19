@@ -53,7 +53,3 @@ Check predictions
 Data Visualization. (Anna)
 Writing the report.
 
-
-## Presentation
-
-Can be found here: https://docs.google.com/presentation/d/1R3cg_Q3E91YZrrgCgZAby8g247Zm1EixiHsUMv0_EMY/edit?usp=sharing
